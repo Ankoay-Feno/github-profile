@@ -1,0 +1,61 @@
+name: Update Dog Image
+
+on:
+  schedule:
+    - cron: '30 * * * *'
+  workflow_dispatch:
+
+jobs:
+  update-dog:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Get Random Dog Image and Advice
+        id: dog
+        run: |
+          DOG_RESPONSE=$(curl -s https://dog.ceo/api/breeds/image/random)
+          IMG_URL=$(echo "$DOG_RESPONSE" | jq -r '.message')
+          
+          ADVICE=$(curl -s https://api.adviceslip.com/advice | jq -r '.slip.advice')
+          
+          cat <<EOF > README.md
+          ## 🐶 Dernière image aléatoire
+
+          ![Photo de chien aléatoire]($IMG_URL)
+
+          **Conseil du jour:** "$ADVICE"
+
+          *Mis à jour: $(date -u +'%Y-%m-%d %H:%M UTC')*
+          EOF
+
+      - name: Create Branch
+        run: |
+          git config --global user.name "Ankoay-Feno"
+          git config --global user.email "ankoayfeno@gmail.com"
+          git checkout -b "dog-update-$(date +%s)"
+
+      - name: Commit Changes
+        run: |
+          git add README.md
+          git commit -m "🦴 Nouvelle image de chien aléatoire"
+
+      - name: Create Pull Request
+        id: pr
+        uses: peter-evans/create-pull-request@v5
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          title: "🐶 Nouvelle image de chien aléatoire"
+          body: "Image générée automatiquement depuis dog.ceo/api"
+          labels: automated,dog
+          delete-branch: true
+
+      - name: Auto-Merge PR
+        if: steps.pr.outputs.pull-request-number
+        run: |
+          gh pr merge ${{ steps.pr.outputs.pull-request-number }} --merge --auto
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
