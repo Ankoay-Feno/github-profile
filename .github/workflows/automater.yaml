@@ -28,7 +28,6 @@ jobs:
         run: |
           DOG_URL=$(curl -s https://dog.ceo/api/breeds/image/random | jq -r '.message')
           ADVICE=$(curl -s https://api.adviceslip.com/advice | jq -r '.slip.advice')
-          
           cat <<EOF > README.md
           ## 🐶 Dernière image aléatoire
           ![Chien]($DOG_URL)
@@ -61,7 +60,7 @@ jobs:
         uses: peter-evans/create-pull-request@v5
         with:
           token: ${{ secrets.PAT_TOKEN }}
-          title: "🐶 Auto Dog Update $(date +'%Y-%m-%d')"
+          title: "🐶 Auto Dog Update"
           body: "Mise à jour automatique de l'image de chien"
           base: main
           branch: ${{ steps.branch.outputs.BRANCH_NAME }}
@@ -70,13 +69,10 @@ jobs:
 
       # Étape 8: Auto-Merge
       - name: Auto-Merge
-        if: steps.pr.outputs.pull-request-number
+        if: ${{ steps.pr.outputs['pull-request-number'] != '' }}
         run: |
-          # Attendre 30s que GitHub mette à jour son état
           sleep 30
-          
-          # Fusionner la PR
-          gh pr merge ${{ steps.pr.outputs.pull-request-number }} \
+          gh pr merge ${{ steps.pr.outputs['pull-request-number'] }} \
             --merge \
             --auto \
             --subject "Auto-merge: Dog Update" \
