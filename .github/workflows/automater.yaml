@@ -9,10 +9,11 @@ jobs:
   update-dog:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout
+      - name: Checkout with PAT
         uses: actions/checkout@v4
         with:
           fetch-depth: 0
+          token: ${{ secrets.PAT_TOKEN }}
 
       - name: Setup Git Identity
         run: |
@@ -42,11 +43,10 @@ jobs:
           git add README.md
           git commit -m "🦴 Nouvelle image de chien aléatoire"
 
-      - name: Push Changes as Ankoay-Feno
+      - name: Push Changes
         run: |
-          git remote set-url origin "https://${{ secrets.PAT_TOKEN }}@github.com/${{ github.repository }}.git"
-          git push origin "dog-update-$(date +'%Y%m%d-%H%M%S')"
-
+          git push https://${{ secrets.PAT_TOKEN }}@github.com/${{ github.repository }}.git "dog-update-$(date +'%Y%m%d-%H%M%S')"
+          
       - name: Create Pull Request
         id: pr
         uses: peter-evans/create-pull-request@v5
