@@ -1,4 +1,4 @@
-name: Update Dog Image
+name: Auto Dog Update
 
 on:
   schedule:
@@ -6,62 +6,75 @@ on:
   workflow_dispatch:
 
 jobs:
-  update-dog:
+  update-and-merge:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout with PAT
+      - name: Checkout
         uses: actions/checkout@v4
         with:
           fetch-depth: 0
           token: ${{ secrets.PAT_TOKEN }}
 
-      - name: Setup Git Identity
+      - name: Setup Git
         run: |
           git config --global user.name "Ankoay-Feno"
           git config --global user.email "ankoayfeno@gmail.com"
 
-      - name: Get Random Dog Image and Advice
-        id: dog
+      - name: Generate Content
+        id: content
         run: |
-          DOG_RESPONSE=$(curl -s https://dog.ceo/api/breeds/image/random)
-          IMG_URL=$(echo "$DOG_RESPONSE" | jq -r '.message')
+          DOG_URL=$(curl -s https://dog.ceo/api/breeds/image/random | jq -r '.message')
           ADVICE=$(curl -s https://api.adviceslip.com/advice | jq -r '.slip.advice')
-          
           cat <<EOF > README.md
           ## 🐶 Dernière image aléatoire
-          ![Photo de chien aléatoire]($IMG_URL)
-          **Conseil du jour:** "$ADVICE"
+          ![Chien]($DOG_URL)
+          **Conseil:** "$ADVICE"
           *Mis à jour: $(date -u +'%Y-%m-%d %H:%M UTC')*
           EOF
+          echo "Test: $RANDOM" >> README.md
 
-      - name: Create and Switch Branch
+
+      - name: Create Branch
+        id: branch
         run: |
-          git checkout -b "dog-update-$(date +'%Y%m%d-%H%M%S')"
+          BRANCH_NAME="dog-update-$(date +'%Y%m%d-%H%M%S')"
+          echo "BRANCH_NAME=$BRANCH_NAME" >> $GITHUB_OUTPUT
+          git checkout -b $BRANCH_NAME
 
-      - name: Commit Changes
+      - name: Commit
         run: |
           git add README.md
-          git commit -m "🦴 Nouvelle image de chien aléatoire"
+          git commit -m "🦴 Auto-update dog image"
 
-      - name: Push Changes
+      - name: Push
         run: |
-          git push https://${{ secrets.PAT_TOKEN }}@github.com/${{ github.repository }}.git "dog-update-$(date +'%Y%m%d-%H%M%S')"
-          
-      - name: Create Pull Request
+          git push origin ${{ steps.branch.outputs.BRANCH_NAME }}
+
+      - name: Create PR
         id: pr
         uses: peter-evans/create-pull-request@v5
         with:
           token: ${{ secrets.PAT_TOKEN }}
-          title: "🐶 Nouvelle image de chien aléatoire"
-          body: "Image générée automatiquement depuis dog.ceo/api"
-          labels: automated,dog
+          title: "🐶 Auto Dog Update"
+          body: "Mise à jour automatique de l'image de chien"
           base: main
-          branch: "dog-update-$(date +'%Y%m%d-%H%M%S')"
+          branch: ${{ steps.branch.outputs.BRANCH_NAME }}
+          labels: automated
           delete-branch: true
 
-      - name: Auto-Merge PR
-        if: steps.pr.outputs.pull-request-number
+      - name: Debug PR outputs
         run: |
-          gh pr merge ${{ steps.pr.outputs.pull-request-number }} --merge --auto
+          echo "Pull request number: ${{ steps.pr.outputs['pull-request-number'] }}"
+          echo "PR URL: ${{ steps.pr.outputs['pull-request-url'] }}"
+
+      - name: Auto-Merge
+        if: ${{ steps.pr.outputs['pull-request-number'] != '' }}
+        run: |
+          sleep 30
+          gh pr merge ${{ steps.pr.outputs['pull-request-number'] }} \
+            --merge \
+            --auto \
+            --subject "Auto-merge: Dog Update" \
+            --body "Fusion automatique de la mise à jour"
         env:
-          GITHUB_TOKEN: ${{ secrets.PAT_TOKEN }}
+          GH_TOKEN: ${{ secrets.PAT_TOKEN }}
