@@ -9,20 +9,17 @@ jobs:
   update-and-merge:
     runs-on: ubuntu-latest
     steps:
-      # Étape 1: Checkout avec authentification
       - name: Checkout
         uses: actions/checkout@v4
         with:
           fetch-depth: 0
           token: ${{ secrets.PAT_TOKEN }}
 
-      # Étape 2: Configuration Git
       - name: Setup Git
         run: |
           git config --global user.name "Ankoay-Feno"
           git config --global user.email "ankoayfeno@gmail.com"
 
-      # Étape 3: Génération du contenu
       - name: Generate Content
         id: content
         run: |
@@ -35,7 +32,6 @@ jobs:
           *Mis à jour: $(date -u +'%Y-%m-%d %H:%M UTC')*
           EOF
 
-      # Étape 4: Création de branche
       - name: Create Branch
         id: branch
         run: |
@@ -43,18 +39,15 @@ jobs:
           echo "BRANCH_NAME=$BRANCH_NAME" >> $GITHUB_OUTPUT
           git checkout -b $BRANCH_NAME
 
-      # Étape 5: Commit
       - name: Commit
         run: |
           git add README.md
           git commit -m "🦴 Auto-update dog image"
 
-      # Étape 6: Push
       - name: Push
         run: |
-          git push origin ${{ steps.branch.outputs.BRANCH_NAME }} --force
+          git push origin ${{ steps.branch.outputs.BRANCH_NAME }}
 
-      # Étape 7: Création PR
       - name: Create PR
         id: pr
         uses: peter-evans/create-pull-request@v5
@@ -67,7 +60,11 @@ jobs:
           labels: automated
           delete-branch: true
 
-      # Étape 8: Auto-Merge
+      - name: Debug PR outputs
+        run: |
+          echo "Pull request number: ${{ steps.pr.outputs['pull-request-number'] }}"
+          echo "PR URL: ${{ steps.pr.outputs['pull-request-url'] }}"
+
       - name: Auto-Merge
         if: ${{ steps.pr.outputs['pull-request-number'] != '' }}
         run: |
