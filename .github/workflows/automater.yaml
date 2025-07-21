@@ -14,51 +14,49 @@ jobs:
         with:
           fetch-depth: 0
 
+      - name: Setup Git Identity
+        run: |
+          git config --global user.name "Ankoay-Feno"
+          git config --global user.email "ankoayfeno@gmail.com"
+
       - name: Get Random Dog Image and Advice
         id: dog
         run: |
           DOG_RESPONSE=$(curl -s https://dog.ceo/api/breeds/image/random)
           IMG_URL=$(echo "$DOG_RESPONSE" | jq -r '.message')
-          
           ADVICE=$(curl -s https://api.adviceslip.com/advice | jq -r '.slip.advice')
           
           cat <<EOF > README.md
           ## 🐶 Dernière image aléatoire
-
           ![Photo de chien aléatoire]($IMG_URL)
-
           **Conseil du jour:** "$ADVICE"
-
           *Mis à jour: $(date -u +'%Y-%m-%d %H:%M UTC')*
           EOF
 
-      - name: Create Branch
+      - name: Create and Switch Branch
         run: |
-          git config --global user.name "Ankoay-Feno"
-          git config --global user.email "ankoayfeno@gmail.com"
-          git checkout -b "dog-update-$(date +%s)"
+          git checkout -b "dog-update-$(date +'%Y%m%d-%H%M%S')"
 
       - name: Commit Changes
         run: |
           git add README.md
           git commit -m "🦴 Nouvelle image de chien aléatoire"
 
-      - name: Push Changes
+      - name: Push Changes as Ankoay-Feno
         run: |
-          git push origin "dog-update-$(date +%s)"
-        env:
-          TOKEN: ${{ secrets.TOKEN }}
+          git remote set-url origin "https://${{ secrets.PAT_TOKEN }}@github.com/${{ github.repository }}.git"
+          git push origin "dog-update-$(date +'%Y%m%d-%H%M%S')"
 
       - name: Create Pull Request
         id: pr
         uses: peter-evans/create-pull-request@v5
         with:
-          token: ${{ secrets.TOKEN }}
+          token: ${{ secrets.PAT_TOKEN }}
           title: "🐶 Nouvelle image de chien aléatoire"
           body: "Image générée automatiquement depuis dog.ceo/api"
           labels: automated,dog
           base: main
-          branch: "dog-update-$(date +%s)"  # <-- Utilise la même branche !
+          branch: "dog-update-$(date +'%Y%m%d-%H%M%S')"
           delete-branch: true
 
       - name: Auto-Merge PR
@@ -66,4 +64,4 @@ jobs:
         run: |
           gh pr merge ${{ steps.pr.outputs.pull-request-number }} --merge --auto
         env:
-          TOKEN: ${{ secrets.TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.PAT_TOKEN }}
