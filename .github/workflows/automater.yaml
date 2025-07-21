@@ -60,7 +60,6 @@ jobs:
           body: "Pull request automatisée pour mise à jour de l’image du chien et du conseil du jour."
 
       - name: Auto-merge PR
-        if: steps.cpr.outputs.pull_request_number != ''
         run: |
           gh pr merge ${{ steps.cpr.outputs.pull_request_number }} --squash --delete-branch --admin
         env:
