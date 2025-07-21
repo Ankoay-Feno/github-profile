@@ -33,7 +33,6 @@ jobs:
           EOF
           echo "Test: $RANDOM" >> README.md
 
-
       - name: Create Branch
         id: branch
         run: |
@@ -50,31 +49,19 @@ jobs:
         run: |
           git push origin ${{ steps.branch.outputs.BRANCH_NAME }}
 
-      - name: Create PR
-        id: pr
-        uses: peter-evans/create-pull-request@v5
+      - name: Create Pull Request
+        id: cpr
+        uses: devops-infra/action-pull-request@v0.5.5
         with:
-          token: ${{ secrets.PAT_TOKEN }}
-          title: "🐶 Auto Dog Update"
-          body: "Mise à jour automatique de l'image de chien"
-          base: main
-          branch: ${{ steps.branch.outputs.BRANCH_NAME }}
-          labels: automated
-          delete-branch: true
+          github_token: ${{ secrets.PAT_TOKEN }}
+          source_branch: ${{ steps.branch.outputs.BRANCH_NAME }}
+          target_branch: main
+          title: "🦴 Auto-update dog image"
+          body: "Pull request automatisée pour mise à jour de l’image du chien et du conseil du jour."
 
-      - name: Debug PR outputs
+      - name: Auto-merge PR
+        if: steps.cpr.outputs.pull_request_number != ''
         run: |
-          echo "Pull request number: ${{ steps.pr.outputs['pull-request-number'] }}"
-          echo "PR URL: ${{ steps.pr.outputs['pull-request-url'] }}"
-
-      - name: Auto-Merge
-        if: ${{ steps.pr.outputs['pull-request-number'] != '' }}
-        run: |
-          sleep 30
-          gh pr merge ${{ steps.pr.outputs['pull-request-number'] }} \
-            --merge \
-            --auto \
-            --subject "Auto-merge: Dog Update" \
-            --body "Fusion automatique de la mise à jour"
+          gh pr merge ${{ steps.cpr.outputs.pull_request_number }} --squash --delete-branch --admin
         env:
           GH_TOKEN: ${{ secrets.PAT_TOKEN }}
