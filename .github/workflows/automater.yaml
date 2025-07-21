@@ -43,6 +43,12 @@ jobs:
           git add README.md
           git commit -m "🦴 Nouvelle image de chien aléatoire"
 
+      - name: Push Changes
+        run: |
+          git push origin "dog-update-$(date +%s)"
+        env:
+          TOKEN: ${{ secrets.TOKEN }}
+
       - name: Create Pull Request
         id: pr
         uses: peter-evans/create-pull-request@v5
@@ -52,6 +58,7 @@ jobs:
           body: "Image générée automatiquement depuis dog.ceo/api"
           labels: automated,dog
           base: main
+          branch: "dog-update-$(date +%s)"  # <-- Utilise la même branche !
           delete-branch: true
 
       - name: Auto-Merge PR
