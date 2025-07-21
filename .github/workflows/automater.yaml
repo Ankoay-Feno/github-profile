@@ -26,12 +26,11 @@ jobs:
           DOG_URL=$(curl -s https://dog.ceo/api/breeds/image/random | jq -r '.message')
           ADVICE=$(curl -s https://api.adviceslip.com/advice | jq -r '.slip.advice')
           cat <<EOF > README.md
-          ## 🐶 Dernière image aléatoire
-          ![Chien]($DOG_URL)
-          **Conseil:** "$ADVICE"
-          *Mis à jour: $(date -u +'%Y-%m-%d %H:%M UTC')*
+          ## 🐶 Latest random dog image
+          ![Dog]($DOG_URL)
+          **Advice:** "$ADVICE"
+          *Updated: $(date -u +'%Y-%m-%d %H:%M UTC')*
           EOF
-          echo "Test: $RANDOM" >> README.md
 
       - name: Create Branch
         id: branch
