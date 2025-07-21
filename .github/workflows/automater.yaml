@@ -34,21 +34,23 @@ jobs:
           *Mis à jour: $(date -u +'%Y-%m-%d %H:%M UTC')*
           EOF
 
+      - name: Create Timestamp
+        id: date
+        run: echo "BRANCH_NAME=dog-update-$(date +'%Y%m%d-%H%M%S')" >> $GITHUB_ENV
+
       - name: Create and Switch Branch
-        run: |
-          git checkout -b "dog-update-$(date +'%Y%m%d-%H%M%S')"
+        run: git checkout -b ${{ env.BRANCH_NAME }}
 
       - name: Commit Changes
         run: |
           git add README.md
           git commit -m "🦴 Nouvelle image de chien aléatoire"
 
-      - name: Push Changes
+      - name: Push Branch
         run: |
-          git push https://${{ secrets.PAT_TOKEN }}@github.com/${{ github.repository }}.git "dog-update-$(date +'%Y%m%d-%H%M%S')"
-          
+          git push origin ${{ env.BRANCH_NAME }} --force
+
       - name: Create Pull Request
-        id: pr
         uses: peter-evans/create-pull-request@v5
         with:
           token: ${{ secrets.PAT_TOKEN }}
@@ -56,12 +58,5 @@ jobs:
           body: "Image générée automatiquement depuis dog.ceo/api"
           labels: automated,dog
           base: main
-          branch: "dog-update-$(date +'%Y%m%d-%H%M%S')"
+          branch: ${{ env.BRANCH_NAME }}
           delete-branch: true
-
-      - name: Auto-Merge PR
-        if: steps.pr.outputs.pull-request-number
-        run: |
-          gh pr merge ${{ steps.pr.outputs.pull-request-number }} --merge --auto
-        env:
-          GITHUB_TOKEN: ${{ secrets.PAT_TOKEN }}
