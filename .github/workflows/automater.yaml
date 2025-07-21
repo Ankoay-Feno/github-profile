@@ -31,6 +31,8 @@ jobs:
           **Conseil:** "$ADVICE"
           *Mis à jour: $(date -u +'%Y-%m-%d %H:%M UTC')*
           EOF
+          echo "Test: $RANDOM" >> README.md
+
 
       - name: Create Branch
         id: branch
