@@ -51,6 +51,7 @@ jobs:
           title: "🐶 Nouvelle image de chien aléatoire"
           body: "Image générée automatiquement depuis dog.ceo/api"
           labels: automated,dog
+          base: main
           delete-branch: true
 
       - name: Auto-Merge PR
