@@ -47,7 +47,7 @@ jobs:
         id: pr
         uses: peter-evans/create-pull-request@v5
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.TOKEN }}
           title: "🐶 Nouvelle image de chien aléatoire"
           body: "Image générée automatiquement depuis dog.ceo/api"
           labels: automated,dog
@@ -58,4 +58,4 @@ jobs:
         run: |
           gh pr merge ${{ steps.pr.outputs.pull-request-number }} --merge --auto
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          TOKEN: ${{ secrets.TOKEN }}
