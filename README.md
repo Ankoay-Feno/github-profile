@@ -1,4 +1,4 @@
 ## 🐶 Latest random dog image
-![Dog](https://images.dog.ceo/breeds/otterhound/n02091635_920.jpg)
-**Advice:** "If you don't ask, you don't get."
-*Updated: 2025-07-22 08:48 UTC*
+![Dog](https://images.dog.ceo/breeds/wolfhound-irish/n02090721_1452.jpg)
+**Advice:** "Accentuate the positive, eliminate the negative."
+*Updated: 2025-07-22 09:44 UTC*
