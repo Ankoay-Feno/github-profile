@@ -1,4 +1,4 @@
 ## 🐶 Latest random dog image
-![Dog](https://images.dog.ceo/breeds/doberman/n02107142_1886.jpg)
-**Advice:** "Don't feed Mogwais after midnight."
-*Updated: 2025-07-22 17:42 UTC*
+![Dog](https://images.dog.ceo/breeds/pitbull/dog-3981033_1280.jpg)
+**Advice:** "A common regret in life is wishing one had the courage to be ones true self."
+*Updated: 2025-07-22 18:50 UTC*
