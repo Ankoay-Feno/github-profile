@@ -1,4 +1,4 @@
 ## 🐶 Latest random dog image
-![Dog](https://images.dog.ceo/breeds/havanese/00100trPORTRAIT_00100_BURST20191126134713895_COVER.jpg)
-**Advice:** "Try using an old idea."
-*Updated: 2025-07-22 11:36 UTC*
+![Dog](https://images.dog.ceo/breeds/deerhound-scottish/n02092002_6585.jpg)
+**Advice:** "Try making a list."
+*Updated: 2025-07-22 13:08 UTC*
