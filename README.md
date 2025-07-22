@@ -1,4 +1,4 @@
 ## 🐶 Latest random dog image
-![Dog](https://images.dog.ceo/breeds/wolfhound-irish/n02090721_1452.jpg)
-**Advice:** "Accentuate the positive, eliminate the negative."
-*Updated: 2025-07-22 09:44 UTC*
+![Dog](https://images.dog.ceo/breeds/buhund-norwegian/hakon3.jpg)
+**Advice:** "Never regret. If it's good, it's wonderful. If it's bad, it's experience."
+*Updated: 2025-07-22 10:45 UTC*
