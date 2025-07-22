@@ -1,4 +1,4 @@
 ## 🐶 Latest random dog image
-![Dog](https://images.dog.ceo/breeds/rottweiler/n02106550_11465.jpg)
-**Advice:** "Most things done in secrecy are better left undone."
-*Updated: 2025-07-22 21:40 UTC*
+![Dog](https://images.dog.ceo/breeds/mastiff-indian/Indian_Mastiff.jpg)
+**Advice:** "Look people in the eye."
+*Updated: 2025-07-22 22:41 UTC*
