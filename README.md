@@ -1,4 +1,4 @@
 ## 🐶 Latest random dog image
-![Dog](https://images.dog.ceo/breeds/pyrenees/n02111500_8209.jpg)
-**Advice:** "When in doubt, just take the next small step."
-*Updated: 2025-07-23 05:48 UTC*
+![Dog](https://images.dog.ceo/breeds/collie-border/n02106166_6879.jpg)
+**Advice:** "Eat food. Not too much, mostly plants."
+*Updated: 2025-07-23 06:52 UTC*
