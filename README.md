@@ -1,4 +1,4 @@
 ## 🐶 Latest random dog image
-![Dog](https://images.dog.ceo/breeds/pointer-german/n02100236_2392.jpg)
-**Advice:** "Always double check you actually attached the file to the email."
-*Updated: 2025-07-23 04:56 UTC*
+![Dog](https://images.dog.ceo/breeds/pyrenees/n02111500_8209.jpg)
+**Advice:** "When in doubt, just take the next small step."
+*Updated: 2025-07-23 05:48 UTC*
