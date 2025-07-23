@@ -1,4 +1,4 @@
 ## 🐶 Latest random dog image
-![Dog](https://images.dog.ceo/breeds/terrier-silky/n02097658_237.jpg)
-**Advice:** "Your smile could make someone's day, don't forget to wear it."
-*Updated: 2025-07-23 16:49 UTC*
+![Dog](https://images.dog.ceo/breeds/waterdog-spanish/20190208_063211.jpg)
+**Advice:** "Only those who attempt the impossible can achieve the absurd."
+*Updated: 2025-07-23 17:42 UTC*
