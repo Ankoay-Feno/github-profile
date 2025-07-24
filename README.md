@@ -1,4 +1,4 @@
 ## 🐶 Latest random dog image
-![Dog](https://images.dog.ceo/breeds/groenendael/n02105056_143.jpg)
-**Advice:** "When faced with a choice, do both."
-*Updated: 2025-07-24 15:40 UTC*
+![Dog](https://images.dog.ceo/breeds/schnauzer-miniature/n02097047_4563.jpg)
+**Advice:** "Don't eat non-snow-coloured snow."
+*Updated: 2025-07-24 16:47 UTC*
