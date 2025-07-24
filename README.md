@@ -1,4 +1,4 @@
 ## 🐶 Latest random dog image
-![Dog](https://images.dog.ceo/breeds/retriever-chesapeake/n02099849_263.jpg)
-**Advice:** "If you find yourself distressed about something, ask yourself if it will still matter tomorrow or next week or next month."
-*Updated: 2025-07-24 19:35 UTC*
+![Dog](https://images.dog.ceo/breeds/mastiff-english/1.jpg)
+**Advice:** "The more ideas that you give away, the more ideas that will come to you."
+*Updated: 2025-07-24 20:40 UTC*
