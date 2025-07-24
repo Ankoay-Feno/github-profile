@@ -1,4 +1,4 @@
 ## 🐶 Latest random dog image
-![Dog](https://images.dog.ceo/breeds/terrier-australian/n02096294_5176.jpg)
-**Advice:** "Pedantry is fine, unless you're on the receiving end. And not a pedant."
-*Updated: 2025-07-24 05:46 UTC*
+![Dog](https://images.dog.ceo/breeds/malinois/n02105162_5802.jpg)
+**Advice:** "One of the top five regrets people have is that they didn't stay in contact with friends."
+*Updated: 2025-07-24 06:52 UTC*
