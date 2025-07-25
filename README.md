@@ -1,4 +1,4 @@
 ## 🐶 Latest random dog image
-![Dog](https://images.dog.ceo/breeds/poodle-medium/PXL_20210220_100624962.jpg)
-**Advice:** "Don't feed Mogwais after midnight."
-*Updated: 2025-07-25 14:43 UTC*
+![Dog](https://images.dog.ceo/breeds/labradoodle/Cali.jpg)
+**Advice:** "If you are feeling down, try holding a pencil between your top lip and your nose for five minutes."
+*Updated: 2025-07-25 15:41 UTC*
