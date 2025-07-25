@@ -1,4 +1,4 @@
 ## 🐶 Latest random dog image
-![Dog](https://images.dog.ceo/breeds/setter-english/n02100735_993.jpg)
-**Advice:** "Never pay full price for a sofa at DFS."
-*Updated: 2025-07-25 18:50 UTC*
+![Dog](https://images.dog.ceo/breeds/brabancon/n02112706_2191.jpg)
+**Advice:** "Try to do the things that you're incapable of."
+*Updated: 2025-07-25 19:34 UTC*
