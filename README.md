@@ -1,4 +1,4 @@
 ## 🐶 Latest random dog image
-![Dog](https://images.dog.ceo/breeds/shihtzu/n02086240_10785.jpg)
-**Advice:** "If you're going bald, don't comb your hair over your bald patch."
-*Updated: 2025-07-27 16:45 UTC*
+![Dog](https://images.dog.ceo/breeds/spaniel-japanese/n02085782_919.jpg)
+**Advice:** "Be a good lover."
+*Updated: 2025-07-27 17:40 UTC*
