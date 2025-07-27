@@ -1,4 +1,4 @@
 ## 🐶 Latest random dog image
-![Dog](https://images.dog.ceo/breeds/poodle-toy/n02113624_2427.jpg)
-**Advice:** "You're not as fat as you think you are."
-*Updated: 2025-07-27 10:43 UTC*
+![Dog](https://images.dog.ceo/breeds/setter-gordon/n02101006_1016.jpg)
+**Advice:** "If you don't want something to be public, don't post it on the Internet."
+*Updated: 2025-07-27 11:34 UTC*
