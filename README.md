@@ -1,4 +1,4 @@
 ## 🐶 Latest random dog image
-![Dog](https://images.dog.ceo/breeds/terrier-scottish/n02097298_2500.jpg)
-**Advice:** "Always seek out advice or opinions when making a decision."
-*Updated: 2025-07-27 21:37 UTC*
+![Dog](https://images.dog.ceo/breeds/deerhound-scottish/n02092002_885.jpg)
+**Advice:** "No "brand" is your friend."
+*Updated: 2025-07-27 22:42 UTC*
