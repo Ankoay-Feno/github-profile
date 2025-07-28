@@ -1,4 +1,4 @@
 ## 🐶 Latest random dog image
-![Dog](https://images.dog.ceo/breeds/gaddi-indian/Gaddi.jpg)
+![Dog](https://images.dog.ceo/breeds/spitz-indian/Indian_Spitz.jpg)
 **Advice:** "If you are ever in doubt about whether or not to wash your hair: Wash it."
-*Updated: 2025-07-28 20:42 UTC*
+*Updated: 2025-07-28 22:44 UTC*
