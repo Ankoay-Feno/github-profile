@@ -1,4 +1,4 @@
 ## 🐶 Latest random dog image
-![Dog](https://images.dog.ceo/breeds/pyrenees/n02111500_3095.jpg)
-**Advice:** "The hardest things to say are usually the most important."
-*Updated: 2025-07-28 13:54 UTC*
+![Dog](https://images.dog.ceo/breeds/mountain-bernese/n02107683_5946.jpg)
+**Advice:** "State the problem in words as clearly as possible."
+*Updated: 2025-07-28 14:45 UTC*
