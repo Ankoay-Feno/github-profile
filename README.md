@@ -1,4 +1,4 @@
 ## 🐶 Latest random dog image
-![Dog](https://images.dog.ceo/breeds/mastiff-bull/n02108422_2344.jpg)
-**Advice:** "Don't try and bump start a motorcycle on an icy road."
-*Updated: 2025-07-28 17:42 UTC*
+![Dog](https://images.dog.ceo/breeds/rottweiler/n02106550_5752.jpg)
+**Advice:** "To cleanly remove the seed from an Avocado, lay a knife firmly across it, and twist."
+*Updated: 2025-07-28 18:52 UTC*
