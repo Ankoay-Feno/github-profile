@@ -1,4 +1,4 @@
 ## 🐶 Latest random dog image
-![Dog](https://images.dog.ceo/breeds/danish-swedish-farmdog/ebba_004.jpg)
-**Advice:** "Eat food. Not too much, mostly plants."
-*Updated: 2025-07-29 11:37 UTC*
+![Dog](https://images.dog.ceo/breeds/chippiparai-indian/Indian-Chippiparai.jpg)
+**Advice:** "One of the single best things about being an adult, is being able to buy as much LEGO as you want."
+*Updated: 2025-07-29 13:11 UTC*
