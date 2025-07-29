@@ -1,4 +1,4 @@
 ## 🐶 Latest random dog image
-![Dog](https://images.dog.ceo/breeds/spaniel-japanese/n02085782_1348.jpg)
-**Advice:** "If you think your headphones are dying, check the socket for fluff with a straightened paperclip."
-*Updated: 2025-07-29 13:55 UTC*
+![Dog](https://images.dog.ceo/breeds/tervuren/yoda_on_terrace.jpg)
+**Advice:** "The hardest things to say are usually the most important."
+*Updated: 2025-07-29 14:51 UTC*
