@@ -1,4 +1,4 @@
 ## 🐶 Latest random dog image
-![Dog](https://images.dog.ceo/breeds/hound-walker/n02089867_2267.jpg)
-**Advice:** "When you look around and don't see anyone you respect, its time to leave."
-*Updated: 2025-07-30 15:43 UTC*
+![Dog](https://images.dog.ceo/breeds/terrier-fox/n02095314_138.jpg)
+**Advice:** "Don't eat anything your grandparents wouldn't recognise as food."
+*Updated: 2025-07-30 16:48 UTC*
