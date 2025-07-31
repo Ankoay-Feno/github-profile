@@ -1,4 +1,4 @@
 ## 🐶 Latest random dog image
-![Dog](https://images.dog.ceo/breeds/segugio-italian/n02090722_001.jpg)
-**Advice:** "If you get stuck, try doing the opposite of what the solution requires."
-*Updated: 2025-07-31 15:42 UTC*
+![Dog](https://images.dog.ceo/breeds/mastiff-bull/n02108422_3197.jpg)
+**Advice:** "Don't assume anything is possible or impossible until you've asked the people who will be doing the work."
+*Updated: 2025-07-31 16:49 UTC*
