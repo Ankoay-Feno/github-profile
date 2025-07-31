@@ -1,4 +1,4 @@
 ## 🐶 Latest random dog image
-![Dog](https://images.dog.ceo/breeds/spitz-japanese/beet-001.jpg)
-**Advice:** "Don't let the bastards grind you down."
-*Updated: 2025-07-31 19:36 UTC*
+![Dog](https://images.dog.ceo/breeds/terrier-russell/IMG_7468.jpg)
+**Advice:** "If you've nothing nice to say, say nothing."
+*Updated: 2025-07-31 20:42 UTC*
