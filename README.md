@@ -1,4 +1,4 @@
 ## 🐶 Latest random dog image
-![Dog](https://images.dog.ceo/breeds/stbernard/n02109525_10908.jpg)
-**Advice:** "Don't assume anything is possible or impossible until you've asked the people who will be doing the work."
-*Updated: 2025-08-01 13:09 UTC*
+![Dog](https://images.dog.ceo/breeds/bulldog-boston/n02096585_1645.jpg)
+**Advice:** "Some people would be better off if they took their own advice."
+*Updated: 2025-08-01 13:52 UTC*
