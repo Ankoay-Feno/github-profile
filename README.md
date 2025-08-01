@@ -1,4 +1,4 @@
 ## 🐶 Latest random dog image
-![Dog](https://images.dog.ceo/breeds/rottweiler/n02106550_4138.jpg)
-**Advice:** "It is easy to sit up and take notice, what's difficult is getting up and taking action."
-*Updated: 2025-08-01 15:42 UTC*
+![Dog](https://images.dog.ceo/breeds/komondor/n02105505_1426.jpg)
+**Advice:** "Always the burrito."
+*Updated: 2025-08-01 16:49 UTC*
