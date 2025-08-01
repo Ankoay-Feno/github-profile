@@ -1,4 +1,4 @@
 ## 🐶 Latest random dog image
-![Dog](https://images.dog.ceo/breeds/terrier-wheaten/n02098105_321.jpg)
-**Advice:** "One of the single best things about being an adult, is being able to buy as much LEGO as you want."
-*Updated: 2025-08-01 10:46 UTC*
+![Dog](https://images.dog.ceo/breeds/kuvasz/n02104029_4513.jpg)
+**Advice:** "Rule number 1: Try not to die. Rule number 2: Don't be a dick."
+*Updated: 2025-08-01 11:37 UTC*
