@@ -1,4 +1,4 @@
 ## 🐶 Latest random dog image
-![Dog](https://images.dog.ceo/breeds/mexicanhairless/n02113978_2996.jpg)
-**Advice:** "Being kind is more rewarding than being right."
-*Updated: 2025-08-01 22:42 UTC*
+![Dog](https://images.dog.ceo/breeds/australian-shepherd/forest.jpg)
+**Advice:** "Gratitude is said to be the secret to happiness."
+*Updated: 2025-08-01 23:38 UTC*
