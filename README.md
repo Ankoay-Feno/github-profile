@@ -1,4 +1,4 @@
 ## 🐶 Latest random dog image
-![Dog](https://images.dog.ceo/breeds/bulldog-boston/n02096585_1645.jpg)
-**Advice:** "Some people would be better off if they took their own advice."
-*Updated: 2025-08-01 13:52 UTC*
+![Dog](https://images.dog.ceo/breeds/corgi-cardigan/n02113186_5819.jpg)
+**Advice:** "If you don't ask, you don't get."
+*Updated: 2025-08-01 14:44 UTC*
