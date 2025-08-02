@@ -1,4 +1,4 @@
 ## 🐶 Latest random dog image
-![Dog](https://images.dog.ceo/breeds/pinscher-miniature/n02107312_612.jpg)
-**Advice:** "Respect your elders."
-*Updated: 2025-08-02 21:37 UTC*
+![Dog](https://images.dog.ceo/breeds/poodle-miniature/n02113712_8756.jpg)
+**Advice:** "Share positive energy."
+*Updated: 2025-08-02 22:41 UTC*
