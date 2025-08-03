@@ -1,4 +1,4 @@
 ## 🐶 Latest random dog image
-![Dog](https://images.dog.ceo/breeds/pointer-germanlonghair/hans3.jpg)
-**Advice:** "To improve productivity, always have a shittier task to put off."
-*Updated: 2025-08-03 17:41 UTC*
+![Dog](https://images.dog.ceo/breeds/beagle/n02088364_15082.jpg)
+**Advice:** "Never write in an email to someone, something which you wouldn't say to that person's face."
+*Updated: 2025-08-03 18:48 UTC*
