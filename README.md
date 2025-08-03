@@ -1,4 +1,4 @@
 ## 🐶 Latest random dog image
-![Dog](https://images.dog.ceo/breeds/terrier-border/n02093754_6623.jpg)
-**Advice:** "Don't eat anything your grandparents wouldn't recognise as food."
-*Updated: 2025-08-03 19:33 UTC*
+![Dog](https://images.dog.ceo/breeds/african/n02116738_2988.jpg)
+**Advice:** "If you think nobody cares if you're alive, try missing a few payments."
+*Updated: 2025-08-03 20:41 UTC*
