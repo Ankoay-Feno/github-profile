@@ -1,4 +1,4 @@
 ## 🐶 Latest random dog image
-![Dog](https://images.dog.ceo/breeds/pembroke/n02113023_12248.jpg)
-**Advice:** "If you think nobody cares if you're alive, try missing a few payments."
-*Updated: 2025-08-03 15:39 UTC*
+![Dog](https://images.dog.ceo/breeds/frise-bichon/3.jpg)
+**Advice:** "Never waste an opportunity to tell someone you love them."
+*Updated: 2025-08-03 16:46 UTC*
