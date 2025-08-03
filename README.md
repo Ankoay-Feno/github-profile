@@ -1,4 +1,4 @@
 ## 🐶 Latest random dog image
-![Dog](https://images.dog.ceo/breeds/african/n02116738_2988.jpg)
-**Advice:** "If you think nobody cares if you're alive, try missing a few payments."
-*Updated: 2025-08-03 20:41 UTC*
+![Dog](https://images.dog.ceo/breeds/sheepdog-indian/Himalayan_Sheepdog.jpg)
+**Advice:** "If you're squashed close to strangers on public transport, try not to be rude to them. No one likes those situations."
+*Updated: 2025-08-03 21:37 UTC*
