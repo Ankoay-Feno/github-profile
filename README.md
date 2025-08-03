@@ -1,4 +1,4 @@
 ## 🐶 Latest random dog image
-![Dog](https://images.dog.ceo/breeds/terrier-border/n02093754_6432.jpg)
-**Advice:** "Work is never as important as you think it is."
-*Updated: 2025-08-03 14:40 UTC*
+![Dog](https://images.dog.ceo/breeds/pembroke/n02113023_12248.jpg)
+**Advice:** "If you think nobody cares if you're alive, try missing a few payments."
+*Updated: 2025-08-03 15:39 UTC*
