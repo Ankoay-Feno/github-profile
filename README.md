@@ -1,4 +1,4 @@
 ## 🐶 Latest random dog image
-![Dog](https://images.dog.ceo/breeds/springer-english/n02102040_1976.jpg)
-**Advice:** "Life is short enough, don't race to the finish."
-*Updated: 2025-08-04 15:44 UTC*
+![Dog](https://images.dog.ceo/breeds/affenpinscher/n02110627_11435.jpg)
+**Advice:** "Fail. Fail again. Fail better."
+*Updated: 2025-08-04 16:51 UTC*
