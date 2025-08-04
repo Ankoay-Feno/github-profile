@@ -1,4 +1,4 @@
 ## 🐶 Latest random dog image
-![Dog](https://images.dog.ceo/breeds/terrier-fox/n02095314_157.jpg)
-**Advice:** "Have a firm handshake."
-*Updated: 2025-08-04 09:50 UTC*
+![Dog](https://images.dog.ceo/breeds/samoyed/n02111889_6376.jpg)
+**Advice:** "Identify sources of happiness."
+*Updated: 2025-08-04 10:47 UTC*
