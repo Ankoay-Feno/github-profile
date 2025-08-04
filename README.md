@@ -1,4 +1,4 @@
 ## 🐶 Latest random dog image
-![Dog](https://images.dog.ceo/breeds/retriever-flatcoated/n02099267_3493.jpg)
-**Advice:** "You spend half your life asleep or in bed. It's worth spending money on a good mattress, decent pillows and a comfy duvet."
-*Updated: 2025-08-04 05:55 UTC*
+![Dog](https://images.dog.ceo/breeds/terrier-norfolk/n02094114_4445.jpg)
+**Advice:** "Never set an alarm clock unless you know how to switch it off"
+*Updated: 2025-08-04 06:59 UTC*
