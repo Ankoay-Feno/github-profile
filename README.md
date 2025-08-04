@@ -1,4 +1,4 @@
 ## 🐶 Latest random dog image
-![Dog](https://images.dog.ceo/breeds/bullterrier-staffordshire/n02093256_2416.jpg)
-**Advice:** "If you don't like the opinion you've been given, get another one."
-*Updated: 2025-08-04 08:50 UTC*
+![Dog](https://images.dog.ceo/breeds/terrier-fox/n02095314_157.jpg)
+**Advice:** "Have a firm handshake."
+*Updated: 2025-08-04 09:50 UTC*
