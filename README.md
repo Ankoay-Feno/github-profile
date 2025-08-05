@@ -1,4 +1,4 @@
 ## 🐶 Latest random dog image
-![Dog](https://images.dog.ceo/breeds/affenpinscher/n02110627_11279.jpg)
-**Advice:** "Age is of no importance, unless you are a cheese."
-*Updated: 2025-08-05 17:42 UTC*
+![Dog](https://images.dog.ceo/breeds/hound-blood/n02088466_10309.jpg)
+**Advice:** "You have as many hours in a day as the people you admire most."
+*Updated: 2025-08-05 18:54 UTC*
