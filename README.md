@@ -1,4 +1,4 @@
 ## 🐶 Latest random dog image
-![Dog](https://images.dog.ceo/breeds/chihuahua/n02085620_2208.jpg)
-**Advice:** "Never pay full price for a sofa at DFS."
-*Updated: 2025-08-06 10:46 UTC*
+![Dog](https://images.dog.ceo/breeds/dingo/n02115641_4818.jpg)
+**Advice:** "Try going commando to an important meeting, NB: don't wear a skirt."
+*Updated: 2025-08-06 11:38 UTC*
