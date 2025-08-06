@@ -1,4 +1,4 @@
 ## 🐶 Latest random dog image
-![Dog](https://images.dog.ceo/breeds/deerhound-scottish/n02092002_5222.jpg)
-**Advice:** "Always double check you actually attached the file to the email."
-*Updated: 2025-08-06 19:37 UTC*
+![Dog](https://images.dog.ceo/breeds/elkhound-norwegian/n02091467_2930.jpg)
+**Advice:** "When something goes wrong in life, just shout "plot twist!" and carry on."
+*Updated: 2025-08-06 20:42 UTC*
