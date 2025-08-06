@@ -1,4 +1,4 @@
 ## 🐶 Latest random dog image
-![Dog](https://images.dog.ceo/breeds/bakharwal-indian/Bakharwal.jpg)
-**Advice:** "If you're squashed close to strangers on public transport, try not to be rude to them. No one likes those situations."
-*Updated: 2025-08-06 09:47 UTC*
+![Dog](https://images.dog.ceo/breeds/chihuahua/n02085620_2208.jpg)
+**Advice:** "Never pay full price for a sofa at DFS."
+*Updated: 2025-08-06 10:46 UTC*
