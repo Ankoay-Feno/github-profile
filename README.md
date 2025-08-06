@@ -1,4 +1,4 @@
 ## 🐶 Latest random dog image
-![Dog](https://images.dog.ceo/breeds/mountain-bernese/n02107683_3138.jpg)
-**Advice:** "Respect other people's opinions, even when they differ from your own."
-*Updated: 2025-08-06 16:50 UTC*
+![Dog](https://images.dog.ceo/breeds/malamute/n02110063_11585.jpg)
+**Advice:** "Give up your seat for someone who needs it."
+*Updated: 2025-08-06 17:43 UTC*
