@@ -1,4 +1,4 @@
 ## 🐶 Latest random dog image
-![Dog](https://images.dog.ceo/breeds/mastiff-indian/Indian_Mastiff.jpg)
-**Advice:** "Hold the door open for the next person."
-*Updated: 2025-08-06 05:50 UTC*
+![Dog](https://images.dog.ceo/breeds/bulldog-english/murphy.jpg)
+**Advice:** "Don't take it personally."
+*Updated: 2025-08-06 06:54 UTC*
