@@ -1,4 +1,4 @@
 ## 🐶 Latest random dog image
-![Dog](https://images.dog.ceo/breeds/terrier-westhighland/n02098286_3995.jpg)
-**Advice:** "Do, or do not. There is no try."
-*Updated: 2025-08-06 08:50 UTC*
+![Dog](https://images.dog.ceo/breeds/bakharwal-indian/Bakharwal.jpg)
+**Advice:** "If you're squashed close to strangers on public transport, try not to be rude to them. No one likes those situations."
+*Updated: 2025-08-06 09:47 UTC*
