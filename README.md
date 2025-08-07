@@ -1,4 +1,4 @@
 ## 🐶 Latest random dog image
-![Dog](https://images.dog.ceo/breeds/saluki/n02091831_4755.jpg)
-**Advice:** "It always seems impossible, until it's done."
-*Updated: 2025-08-07 20:42 UTC*
+![Dog](https://images.dog.ceo/breeds/gaddi-indian/Gaddi.jpg)
+**Advice:** "When hugging, hug with both arms and apply reasonable, affectionate pressure."
+*Updated: 2025-08-07 21:40 UTC*
