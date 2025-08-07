@@ -1,4 +1,4 @@
 ## 🐶 Latest random dog image
-![Dog](https://images.dog.ceo/breeds/mountain-bernese/n02107683_3512.jpg)
-**Advice:** "It is easy to sit up and take notice, what's difficult is getting up and taking action."
-*Updated: 2025-08-07 07:42 UTC*
+![Dog](https://images.dog.ceo/breeds/terrier-kerryblue/n02093859_1154.jpg)
+**Advice:** "Accentuate the positive, eliminate the negative."
+*Updated: 2025-08-07 08:49 UTC*
