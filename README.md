@@ -1,4 +1,4 @@
 ## 🐶 Latest random dog image
-![Dog](https://images.dog.ceo/breeds/gaddi-indian/Gaddi.jpg)
-**Advice:** "When hugging, hug with both arms and apply reasonable, affectionate pressure."
-*Updated: 2025-08-07 21:40 UTC*
+![Dog](https://images.dog.ceo/breeds/terrier-scottish/n02097298_8392.jpg)
+**Advice:** "Learn to handle criticism."
+*Updated: 2025-08-07 22:43 UTC*
