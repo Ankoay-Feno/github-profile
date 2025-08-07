@@ -1,4 +1,4 @@
 ## 🐶 Latest random dog image
-![Dog](https://images.dog.ceo/breeds/terrier-sealyham/n02095889_673.jpg)
-**Advice:** "No one knows anyone else in the way you do."
-*Updated: 2025-08-07 06:54 UTC*
+![Dog](https://images.dog.ceo/breeds/mountain-bernese/n02107683_3512.jpg)
+**Advice:** "It is easy to sit up and take notice, what's difficult is getting up and taking action."
+*Updated: 2025-08-07 07:42 UTC*
