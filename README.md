@@ -1,4 +1,4 @@
 ## 🐶 Latest random dog image
-![Dog](https://images.dog.ceo/breeds/mix/penny.jpg)
-**Advice:** "Give up your seat for someone who needs it."
-*Updated: 2025-08-08 02:36 UTC*
+![Dog](https://images.dog.ceo/breeds/mountain-swiss/n02107574_854.jpg)
+**Advice:** "Work is never as important as you think it is."
+*Updated: 2025-08-08 04:26 UTC*
