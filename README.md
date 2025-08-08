@@ -1,4 +1,4 @@
 ## 🐶 Latest random dog image
-![Dog](https://images.dog.ceo/breeds/airedale/n02096051_9631.jpg)
-**Advice:** "Why wait until valentines day for a romantic gesture?"
-*Updated: 2025-08-08 16:44 UTC*
+![Dog](https://images.dog.ceo/breeds/terrier-scottish/n02097298_2722.jpg)
+**Advice:** "Remedy tickly coughs with a drink of honey, lemon and water as hot as you can take."
+*Updated: 2025-08-08 17:38 UTC*
