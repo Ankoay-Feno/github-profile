@@ -1,4 +1,4 @@
 ## 🐶 Latest random dog image
-![Dog](https://images.dog.ceo/breeds/saluki/n02091831_8028.jpg)
-**Advice:** "The sun always shines above the clouds."
-*Updated: 2025-08-08 18:48 UTC*
+![Dog](https://images.dog.ceo/breeds/segugio-italian/n02090722_001.jpg)
+**Advice:** "If you find yourself distressed about something, ask yourself if it will still matter tomorrow or next week or next month."
+*Updated: 2025-08-08 19:31 UTC*
