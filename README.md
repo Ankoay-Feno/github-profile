@@ -1,4 +1,4 @@
 ## 🐶 Latest random dog image
-![Dog](https://images.dog.ceo/breeds/pembroke/n02113023_1825.jpg)
-**Advice:** "Never run a marathon in Crocs."
-*Updated: 2025-08-09 08:43 UTC*
+![Dog](https://images.dog.ceo/breeds/terrier-toy/n02087046_8379.jpg)
+**Advice:** "One of the single best things about being an adult, is being able to buy as much LEGO as you want."
+*Updated: 2025-08-09 09:37 UTC*
