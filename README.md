@@ -1,4 +1,4 @@
 ## 🐶 Latest random dog image
-![Dog](https://images.dog.ceo/breeds/dane-great/n02109047_5910.jpg)
-**Advice:** "Everybody makes mistakes."
-*Updated: 2025-08-09 17:38 UTC*
+![Dog](https://images.dog.ceo/breeds/dachshund/daschund-shorthair.jpg)
+**Advice:** "Stop procrastinating."
+*Updated: 2025-08-09 18:46 UTC*
