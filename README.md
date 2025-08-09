@@ -1,4 +1,4 @@
 ## 🐶 Latest random dog image
-![Dog](https://images.dog.ceo/breeds/terrier-russell/iguet1.jpg)
-**Advice:** "Don't wear clean trousers when walking your dog in the park."
-*Updated: 2025-08-09 16:44 UTC*
+![Dog](https://images.dog.ceo/breeds/dane-great/n02109047_5910.jpg)
+**Advice:** "Everybody makes mistakes."
+*Updated: 2025-08-09 17:38 UTC*
