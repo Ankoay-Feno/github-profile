@@ -1,4 +1,4 @@
 ## 🐶 Latest random dog image
-![Dog](https://images.dog.ceo/breeds/mastiff-english/4.jpg)
-**Advice:** "To cleanly remove the seed from an Avocado, lay a knife firmly across it, and twist."
-*Updated: 2025-08-09 22:40 UTC*
+![Dog](https://images.dog.ceo/breeds/chihuahua/n02085620_13383.jpg)
+**Advice:** "Pedantry is fine, unless you're on the receiving end. And not a pedant."
+*Updated: 2025-08-09 23:36 UTC*
