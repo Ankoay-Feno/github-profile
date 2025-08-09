@@ -1,4 +1,4 @@
 ## 🐶 Latest random dog image
-![Dog](https://images.dog.ceo/breeds/terrier-toy/n02087046_8379.jpg)
-**Advice:** "One of the single best things about being an adult, is being able to buy as much LEGO as you want."
-*Updated: 2025-08-09 09:37 UTC*
+![Dog](https://images.dog.ceo/breeds/pinscher-miniature/n02107312_5290.jpg)
+**Advice:** "Value the people in your life."
+*Updated: 2025-08-09 10:41 UTC*
