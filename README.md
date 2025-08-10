@@ -1,4 +1,4 @@
 ## 🐶 Latest random dog image
-![Dog](https://images.dog.ceo/breeds/terrier-patterdale/Patterdale.jpg)
-**Advice:** "Put a piece of kitchen roll in with your bag of leaves to make them last longer."
-*Updated: 2025-08-10 10:42 UTC*
+![Dog](https://images.dog.ceo/breeds/bakharwal-indian/Bakharwal.jpg)
+**Advice:** "Only those who attempt the impossible can achieve the absurd."
+*Updated: 2025-08-10 11:33 UTC*
