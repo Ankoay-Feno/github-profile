@@ -1,4 +1,4 @@
 ## 🐶 Latest random dog image
-![Dog](https://images.dog.ceo/breeds/havanese/00100trPORTRAIT_00100_BURST20191103202017556_COVER.jpg)
-**Advice:** "Good advice is something a man gives when he is too old to set a bad example."
-*Updated: 2025-08-10 16:44 UTC*
+![Dog](https://images.dog.ceo/breeds/terrier-tibetan/n02097474_529.jpg)
+**Advice:** "No one knows anyone else in the way you do."
+*Updated: 2025-08-10 17:37 UTC*
