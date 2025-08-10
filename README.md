@@ -1,4 +1,4 @@
 ## 🐶 Latest random dog image
-![Dog](https://images.dog.ceo/breeds/hound-basset/n02088238_4374.jpg)
-**Advice:** "Smile and the world smiles with you. Frown and you're on your own."
-*Updated: 2025-08-10 18:45 UTC*
+![Dog](https://images.dog.ceo/breeds/retriever-curly/n02099429_2374.jpg)
+**Advice:** "The number of vampires in the average home, is directly proportional to the amount of garlic bread in the fridge."
+*Updated: 2025-08-10 19:30 UTC*
