@@ -1,4 +1,4 @@
 ## 🐶 Latest random dog image
-![Dog](https://images.dog.ceo/breeds/retriever-chesapeake/n02099849_1326.jpg)
-**Advice:** "Don't waste food."
-*Updated: 2025-08-10 07:35 UTC*
+![Dog](https://images.dog.ceo/breeds/leonberg/n02111129_2520.jpg)
+**Advice:** "Measure twice, cut once."
+*Updated: 2025-08-10 08:43 UTC*
