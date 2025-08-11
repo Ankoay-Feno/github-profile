@@ -1,4 +1,4 @@
 ## 🐶 Latest random dog image
-![Dog](https://images.dog.ceo/breeds/pembroke/n02113023_4611.jpg)
-**Advice:** "Measure twice, cut once."
-*Updated: 2025-08-11 04:58 UTC*
+![Dog](https://images.dog.ceo/breeds/spaniel-blenheim/n02086646_3815.jpg)
+**Advice:** "The person who never made a mistake never made anything."
+*Updated: 2025-08-11 05:48 UTC*
