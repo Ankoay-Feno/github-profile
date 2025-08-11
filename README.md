@@ -1,4 +1,4 @@
 ## 🐶 Latest random dog image
-![Dog](https://images.dog.ceo/breeds/terrier-sealyham/n02095889_4796.jpg)
-**Advice:** "Stop procrastinating."
-*Updated: 2025-08-11 20:38 UTC*
+![Dog](https://images.dog.ceo/breeds/terrier-wheaten/n02098105_1234.jpg)
+**Advice:** "You're not as fat as you think you are."
+*Updated: 2025-08-11 21:35 UTC*
