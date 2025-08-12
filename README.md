@@ -1,4 +1,4 @@
 ## 🐶 Latest random dog image
-![Dog](https://images.dog.ceo/breeds/borzoi/n02090622_7962.jpg)
-**Advice:** "Turn jeans inside out when washing them to help preserve their colour."
-*Updated: 2025-08-12 15:41 UTC*
+![Dog](https://images.dog.ceo/breeds/schnauzer-giant/n02097130_5840.jpg)
+**Advice:** "Enjoy a little nonsense now and then."
+*Updated: 2025-08-12 16:47 UTC*
