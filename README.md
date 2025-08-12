@@ -1,4 +1,4 @@
 ## 🐶 Latest random dog image
-![Dog](https://images.dog.ceo/breeds/spaniel-irish/n02102973_3646.jpg)
-**Advice:** "Things are just things. Don't get too attached to them."
-*Updated: 2025-08-12 06:49 UTC*
+![Dog](https://images.dog.ceo/breeds/springer-english/n02102040_1244.jpg)
+**Advice:** "If you have the chance, take it!"
+*Updated: 2025-08-12 07:38 UTC*
