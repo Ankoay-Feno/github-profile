@@ -1,4 +1,4 @@
 ## 🐶 Latest random dog image
-![Dog](https://images.dog.ceo/breeds/collie-border/n02106166_3515.jpg)
-**Advice:** "Most things look better when you put them in a circle."
-*Updated: 2025-08-12 09:40 UTC*
+![Dog](https://images.dog.ceo/breeds/setter-irish/n02100877_4639.jpg)
+**Advice:** "Good things come to those who wait."
+*Updated: 2025-08-12 10:43 UTC*
