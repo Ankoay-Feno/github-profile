@@ -1,4 +1,4 @@
 ## 🐶 Latest random dog image
-![Dog](https://images.dog.ceo/breeds/schipperke/n02104365_2978.jpg)
-**Advice:** "Be brave. Even if you're not, pretend to be. No one can tell the difference."
-*Updated: 2025-08-12 13:05 UTC*
+![Dog](https://images.dog.ceo/breeds/groenendael/n02105056_6614.jpg)
+**Advice:** "True happiness always resides in the quest."
+*Updated: 2025-08-12 13:48 UTC*
