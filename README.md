@@ -1,4 +1,4 @@
 ## 🐶 Latest random dog image
-![Dog](https://images.dog.ceo/breeds/groenendael/n02105056_6614.jpg)
-**Advice:** "True happiness always resides in the quest."
-*Updated: 2025-08-12 13:48 UTC*
+![Dog](https://images.dog.ceo/breeds/retriever-curly/n02099429_1662.jpg)
+**Advice:** "You will always regret the round of Tequila."
+*Updated: 2025-08-12 14:42 UTC*
