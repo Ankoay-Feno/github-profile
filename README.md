@@ -1,4 +1,4 @@
 ## 🐶 Latest random dog image
-![Dog](https://images.dog.ceo/breeds/mastiff-tibetan/n02108551_9913.jpg)
-**Advice:** "Never regret. If it's good, it's wonderful. If it's bad, it's experience."
-*Updated: 2025-08-13 05:41 UTC*
+![Dog](https://images.dog.ceo/breeds/schnauzer-miniature/n02097047_2511.jpg)
+**Advice:** "If you find yourself distressed about something, ask yourself if it will still matter tomorrow or next week or next month."
+*Updated: 2025-08-13 06:50 UTC*
