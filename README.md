@@ -1,4 +1,4 @@
 ## 🐶 Latest random dog image
-![Dog](https://images.dog.ceo/breeds/stbernard/n02109525_10251.jpg)
-**Advice:** "You will always regret the round of Tequila."
-*Updated: 2025-08-14 19:30 UTC*
+![Dog](https://images.dog.ceo/breeds/setter-irish/n02100877_6749.jpg)
+**Advice:** "As things get closer to the light, the shadows get darker."
+*Updated: 2025-08-14 20:39 UTC*
