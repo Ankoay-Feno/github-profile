@@ -1,4 +1,4 @@
 ## 🐶 Latest random dog image
-![Dog](https://images.dog.ceo/breeds/terrier-welsh/lucy.jpg)
-**Advice:** "Never set an alarm clock unless you know how to switch it off"
-*Updated: 2025-08-14 11:35 UTC*
+![Dog](https://images.dog.ceo/breeds/terrier-irish/n02093991_756.jpg)
+**Advice:** "The number of vampires in the average home, is directly proportional to the amount of garlic bread in the fridge."
+*Updated: 2025-08-14 13:07 UTC*
