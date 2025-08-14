@@ -1,4 +1,4 @@
 ## 🐶 Latest random dog image
-![Dog](https://images.dog.ceo/breeds/mix/Milka3.jpg)
-**Advice:** "Don't use Excel or Powerpoint documents for your basic word processing needs."
-*Updated: 2025-08-14 10:44 UTC*
+![Dog](https://images.dog.ceo/breeds/terrier-welsh/lucy.jpg)
+**Advice:** "Never set an alarm clock unless you know how to switch it off"
+*Updated: 2025-08-14 11:35 UTC*
