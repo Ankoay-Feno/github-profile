@@ -1,4 +1,4 @@
 ## 🐶 Latest random dog image
-![Dog](https://images.dog.ceo/breeds/briard/n02105251_2317.jpg)
-**Advice:** "Do, or do not. There is no try."
-*Updated: 2025-08-14 15:40 UTC*
+![Dog](https://images.dog.ceo/breeds/pointer-germanlonghair/hans1.jpg)
+**Advice:** "If you can't do anything about it, there's no point in worrying about it."
+*Updated: 2025-08-14 16:46 UTC*
