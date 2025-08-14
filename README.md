@@ -1,4 +1,4 @@
 ## 🐶 Latest random dog image
-![Dog](https://images.dog.ceo/breeds/danish-swedish-farmdog/ebba_003.jpg)
-**Advice:** "Only those who attempt the impossible can achieve the absurd."
-*Updated: 2025-08-14 22:40 UTC*
+![Dog](https://images.dog.ceo/breeds/segugio-italian/n02090722_001.jpg)
+**Advice:** "Try going commando to an important meeting, NB: don't wear a skirt."
+*Updated: 2025-08-14 23:36 UTC*
