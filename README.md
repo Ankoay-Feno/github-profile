@@ -1,4 +1,4 @@
 ## 🐶 Latest random dog image
-![Dog](https://images.dog.ceo/breeds/terrier-welsh/lucy.jpg)
-**Advice:** "Only those who attempt the impossible can achieve the absurd."
-*Updated: 2025-08-15 13:03 UTC*
+![Dog](https://images.dog.ceo/breeds/terrier-wheaten/n02098105_3245.jpg)
+**Advice:** "Things are just things. Don't get too attached to them."
+*Updated: 2025-08-15 13:44 UTC*
