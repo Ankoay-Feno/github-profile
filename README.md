@@ -1,4 +1,4 @@
 ## 🐶 Latest random dog image
-![Dog](https://images.dog.ceo/breeds/terrier-wheaten/n02098105_3245.jpg)
-**Advice:** "Things are just things. Don't get too attached to them."
-*Updated: 2025-08-15 13:44 UTC*
+![Dog](https://images.dog.ceo/breeds/weimaraner/n02092339_367.jpg)
+**Advice:** "Opinions are like arseholes, everyone has one."
+*Updated: 2025-08-15 14:40 UTC*
