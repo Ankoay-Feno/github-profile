@@ -1,4 +1,4 @@
 ## 🐶 Latest random dog image
-![Dog](https://images.dog.ceo/breeds/terrier-australian/n02096294_8476.jpg)
-**Advice:** "Life is better when you sing about bananas."
-*Updated: 2025-08-15 03:37 UTC*
+![Dog](https://images.dog.ceo/breeds/whippet/n02091134_13334.jpg)
+**Advice:** "If you don't like the opinion you've been given, get another one."
+*Updated: 2025-08-15 04:53 UTC*
