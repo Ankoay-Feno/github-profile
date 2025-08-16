@@ -1,4 +1,4 @@
 ## 🐶 Latest random dog image
-![Dog](https://images.dog.ceo/breeds/setter-irish/n02100877_4704.jpg)
-**Advice:** "You spend half your life asleep or in bed. It's worth spending money on a good mattress, decent pillows and a comfy duvet."
-*Updated: 2025-08-16 14:37 UTC*
+![Dog](https://images.dog.ceo/breeds/bulldog-french/n02108915_1114.jpg)
+**Advice:** "You don't need to floss all of your teeth. Only the ones you want to keep."
+*Updated: 2025-08-16 15:36 UTC*
