@@ -1,4 +1,4 @@
 ## 🐶 Latest random dog image
-![Dog](https://images.dog.ceo/breeds/danish-swedish-farmdog/ebba_003.jpg)
-**Advice:** "Sarcasm is the lowest form of wit. Employ correctly with apt timing."
-*Updated: 2025-08-16 13:40 UTC*
+![Dog](https://images.dog.ceo/breeds/setter-irish/n02100877_4704.jpg)
+**Advice:** "You spend half your life asleep or in bed. It's worth spending money on a good mattress, decent pillows and a comfy duvet."
+*Updated: 2025-08-16 14:37 UTC*
