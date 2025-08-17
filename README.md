@@ -1,4 +1,4 @@
 ## 🐶 Latest random dog image
-![Dog](https://images.dog.ceo/breeds/mountain-swiss/n02107574_467.jpg)
-**Advice:** "Never set an alarm clock unless you know how to switch it off"
-*Updated: 2025-08-17 13:41 UTC*
+![Dog](https://images.dog.ceo/breeds/sheepdog-shetland/n02105855_9415.jpg)
+**Advice:** "Never run a marathon in Crocs."
+*Updated: 2025-08-17 14:38 UTC*
