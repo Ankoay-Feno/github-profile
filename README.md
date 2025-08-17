@@ -1,4 +1,4 @@
 ## 🐶 Latest random dog image
-![Dog](https://images.dog.ceo/breeds/havanese/00100trPORTRAIT_00100_BURST20191126134713895_COVER.jpg)
-**Advice:** "Happiness is a journey, not a destination."
-*Updated: 2025-08-16 23:33 UTC*
+![Dog](https://images.dog.ceo/breeds/pinscher-miniature/n02107312_3071.jpg)
+**Advice:** "What's stopping you?"
+*Updated: 2025-08-17 02:31 UTC*
