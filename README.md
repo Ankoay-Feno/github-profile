@@ -1,4 +1,4 @@
 ## 🐶 Latest random dog image
-![Dog](https://images.dog.ceo/breeds/beagle/n02088364_6358.jpg)
-**Advice:** "Give up your seat for someone who needs it."
-*Updated: 2025-08-17 08:42 UTC*
+![Dog](https://images.dog.ceo/breeds/weimaraner/n02092339_176.jpg)
+**Advice:** "Age is of no importance, unless you are a cheese."
+*Updated: 2025-08-17 09:36 UTC*
