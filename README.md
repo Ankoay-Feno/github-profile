@@ -1,4 +1,4 @@
 ## 🐶 Latest random dog image
-![Dog](https://images.dog.ceo/breeds/malinois/n02105162_9919.jpg)
-**Advice:** "The person who never made a mistake never made anything."
-*Updated: 2025-08-17 10:40 UTC*
+![Dog](https://images.dog.ceo/breeds/schnauzer-miniature/n02097047_328.jpg)
+**Advice:** "What could you increase? What could you reduce?"
+*Updated: 2025-08-17 11:31 UTC*
