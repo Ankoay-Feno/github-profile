@@ -1,4 +1,4 @@
 ## 🐶 Latest random dog image
-![Dog](https://images.dog.ceo/breeds/hound-afghan/n02088094_1259.jpg)
-**Advice:** "It is easy to sit up and take notice, what's difficult is getting up and taking action."
-*Updated: 2025-08-19 21:33 UTC*
+![Dog](https://images.dog.ceo/breeds/bulldog-french/n02108915_4477.jpg)
+**Advice:** "As you get older, learn never to trust a fart."
+*Updated: 2025-08-19 22:38 UTC*
