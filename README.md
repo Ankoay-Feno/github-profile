@@ -1,4 +1,4 @@
 ## 🐶 Latest random dog image
-![Dog](https://images.dog.ceo/breeds/mudhol-indian/Indian-Mudhol.jpg)
-**Advice:** "As things get closer to the light, the shadows get darker."
-*Updated: 2025-08-19 13:44 UTC*
+![Dog](https://images.dog.ceo/breeds/schnauzer-miniature/n02097047_674.jpg)
+**Advice:** "Never regret. If it's good, it's wonderful. If it's bad, it's experience."
+*Updated: 2025-08-19 14:41 UTC*
