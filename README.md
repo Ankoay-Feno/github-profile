@@ -1,4 +1,4 @@
 ## 🐶 Latest random dog image
-![Dog](https://images.dog.ceo/breeds/doberman/n02107142_9282.jpg)
-**Advice:** "Alway do anything for love, but don't do that."
-*Updated: 2025-08-19 03:51 UTC*
+![Dog](https://images.dog.ceo/breeds/australian-kelpie/Resized_20200416_142905_108884348190285.jpg)
+**Advice:** "If you don't like the opinion you've been given, get another one."
+*Updated: 2025-08-19 04:41 UTC*
