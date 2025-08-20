@@ -1,4 +1,4 @@
 ## 🐶 Latest random dog image
-![Dog](https://images.dog.ceo/breeds/otterhound/n02091635_2377.jpg)
-**Advice:** "If you're going bald, don't comb your hair over your bald patch."
-*Updated: 2025-08-20 05:39 UTC*
+![Dog](https://images.dog.ceo/breeds/terrier-norwich/n02094258_2559.jpg)
+**Advice:** "If you've nothing nice to say, say nothing."
+*Updated: 2025-08-20 06:48 UTC*
