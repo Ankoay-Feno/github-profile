@@ -1,4 +1,4 @@
 ## 🐶 Latest random dog image
-![Dog](https://images.dog.ceo/breeds/terrier-australian/n02096294_7605.jpg)
-**Advice:** "Try using an old idea."
-*Updated: 2025-08-20 22:37 UTC*
+![Dog](https://images.dog.ceo/breeds/terrier-tibetan/n02097474_978.jpg)
+**Advice:** "Most things look better when you put them in a circle."
+*Updated: 2025-08-20 23:32 UTC*
