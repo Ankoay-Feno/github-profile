@@ -1,4 +1,4 @@
 ## 🐶 Latest random dog image
-![Dog](https://images.dog.ceo/breeds/mexicanhairless/n02113978_2054.jpg)
-**Advice:** "Brush your teeth the moment you get up."
-*Updated: 2025-08-20 21:34 UTC*
+![Dog](https://images.dog.ceo/breeds/terrier-australian/n02096294_7605.jpg)
+**Advice:** "Try using an old idea."
+*Updated: 2025-08-20 22:37 UTC*
