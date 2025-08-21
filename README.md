@@ -1,4 +1,4 @@
 ## 🐶 Latest random dog image
-![Dog](https://images.dog.ceo/breeds/spaniel-blenheim/n02086646_3680.jpg)
-**Advice:** "Respect your elders."
-*Updated: 2025-08-21 02:14 UTC*
+![Dog](https://images.dog.ceo/breeds/poodle-miniature/n02113712_1590.jpg)
+**Advice:** "Age is of no importance, unless you are a cheese."
+*Updated: 2025-08-21 03:25 UTC*
