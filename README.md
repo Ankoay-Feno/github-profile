@@ -1,4 +1,4 @@
 ## 🐶 Latest random dog image
-![Dog](https://images.dog.ceo/breeds/germanshepherd/n02106662_10552.jpg)
-**Advice:** "Stop procrastinating."
-*Updated: 2025-08-21 23:33 UTC*
+![Dog](https://images.dog.ceo/breeds/pitbull/dog-3981540_1280.jpg)
+**Advice:** "It's wrong to be right."
+*Updated: 2025-08-22 02:15 UTC*
