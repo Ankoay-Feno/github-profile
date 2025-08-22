@@ -1,4 +1,4 @@
 ## 🐶 Latest random dog image
-![Dog](https://images.dog.ceo/breeds/pointer-german/n02100236_4235.jpg)
-**Advice:** "One of the top five regrets people have is that they didn't have the courage to be their true self."
-*Updated: 2025-08-22 21:33 UTC*
+![Dog](https://images.dog.ceo/breeds/setter-irish/n02100877_407.jpg)
+**Advice:** "Value the people in your life."
+*Updated: 2025-08-22 22:37 UTC*
