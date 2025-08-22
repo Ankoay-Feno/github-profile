@@ -1,4 +1,4 @@
 ## 🐶 Latest random dog image
-![Dog](https://images.dog.ceo/breeds/australian-shepherd/pepper.jpg)
-**Advice:** "Some of life's best lessons are learnt at the worst times."
-*Updated: 2025-08-22 09:38 UTC*
+![Dog](https://images.dog.ceo/breeds/terrier-norfolk/n02094114_1665.jpg)
+**Advice:** "Pedantry is fine, unless you're on the receiving end. And not a pedant."
+*Updated: 2025-08-22 10:40 UTC*
