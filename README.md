@@ -1,4 +1,4 @@
 ## 🐶 Latest random dog image
-![Dog](https://images.dog.ceo/breeds/pyrenees/n02111500_6857.jpg)
-**Advice:** "Once in a while, eat some sweets you used to enjoy when you were younger."
-*Updated: 2025-08-22 05:38 UTC*
+![Dog](https://images.dog.ceo/breeds/terrier-fox/n02095314_401.jpg)
+**Advice:** "Smile and the world smiles with you. Frown and you're on your own."
+*Updated: 2025-08-22 06:47 UTC*
