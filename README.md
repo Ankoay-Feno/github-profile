@@ -1,4 +1,4 @@
 ## 🐶 Latest random dog image
-![Dog](https://images.dog.ceo/breeds/terrier-kerryblue/n02093859_1279.jpg)
-**Advice:** "If you think nobody cares if you're alive, try missing a few payments."
-*Updated: 2025-08-22 17:37 UTC*
+![Dog](https://images.dog.ceo/breeds/terrier-lakeland/n02095570_1148.jpg)
+**Advice:** "You're not as fat as you think you are."
+*Updated: 2025-08-22 18:45 UTC*
