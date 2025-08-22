@@ -1,4 +1,4 @@
 ## 🐶 Latest random dog image
-![Dog](https://images.dog.ceo/breeds/retriever-golden/n02099601_3494.jpg)
-**Advice:** "You will always regret the round of JÃ¤germeister."
-*Updated: 2025-08-22 11:31 UTC*
+![Dog](https://images.dog.ceo/breeds/poodle-standard/n02113799_4454.jpg)
+**Advice:** "Repeat people's names when you meet them."
+*Updated: 2025-08-22 13:42 UTC*
