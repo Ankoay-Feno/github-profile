@@ -1,4 +1,4 @@
 ## 🐶 Latest random dog image
-![Dog](https://images.dog.ceo/breeds/dane-great/n02109047_5573.jpg)
-**Advice:** "Don't promise what you can't deliver."
-*Updated: 2025-08-24 17:34 UTC*
+![Dog](https://images.dog.ceo/breeds/terrier-fox/n02095314_2864.jpg)
+**Advice:** "Look people in the eye."
+*Updated: 2025-08-24 18:42 UTC*
