@@ -1,4 +1,4 @@
 ## 🐶 Latest random dog image
-![Dog](https://images.dog.ceo/breeds/otterhound/n02091635_3379.jpg)
-**Advice:** "Do not seek praise, seek criticism."
-*Updated: 2025-08-24 05:37 UTC*
+![Dog](https://images.dog.ceo/breeds/kombai/Kombai-indian-Dog.jpg)
+**Advice:** "The hardest things to say are usually the most important."
+*Updated: 2025-08-24 06:44 UTC*
