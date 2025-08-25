@@ -1,4 +1,4 @@
 ## 🐶 Latest random dog image
-![Dog](https://images.dog.ceo/breeds/elkhound-norwegian/n02091467_1491.jpg)
-**Advice:** "Don't eat anything your grandparents wouldn't recognise as food."
-*Updated: 2025-08-25 15:39 UTC*
+![Dog](https://images.dog.ceo/breeds/dingo/n02115641_9065.jpg)
+**Advice:** "To improve productivity, always have a shittier task to put off."
+*Updated: 2025-08-25 16:44 UTC*
