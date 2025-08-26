@@ -1,4 +1,4 @@
 ## 🐶 Latest random dog image
-![Dog](https://images.dog.ceo/breeds/setter-irish/n02100877_4764.jpg)
-**Advice:** "Don't give to others advice which you wouldn't follow."
-*Updated: 2025-08-26 16:42 UTC*
+![Dog](https://images.dog.ceo/breeds/cattledog-australian/IMG_7506.jpg)
+**Advice:** "When you're at a concert or event, enjoy the moment, enjoy being there. Try leaving your camera in your pocket."
+*Updated: 2025-08-26 17:36 UTC*
