@@ -1,4 +1,4 @@
 ## 🐶 Latest random dog image
-![Dog](https://images.dog.ceo/breeds/terrier-border/n02093754_7908.jpg)
-**Advice:** "Do not seek praise, seek criticism."
-*Updated: 2025-08-26 03:26 UTC*
+![Dog](https://images.dog.ceo/breeds/retriever-chesapeake/n02099849_1349.jpg)
+**Advice:** "Don't be afraid to ask questions."
+*Updated: 2025-08-26 03:51 UTC*
