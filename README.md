@@ -1,4 +1,4 @@
 ## 🐶 Latest random dog image
-![Dog](https://images.dog.ceo/breeds/terrier-russell/iguet5.jpg)
-**Advice:** "The number of vampires in the average home, is directly proportional to the amount of garlic bread in the fridge."
-*Updated: 2025-08-26 06:48 UTC*
+![Dog](https://images.dog.ceo/breeds/mexicanhairless/n02113978_1632.jpg)
+**Advice:** "When in doubt, just take the next small step."
+*Updated: 2025-08-26 07:36 UTC*
