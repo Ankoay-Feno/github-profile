@@ -1,4 +1,4 @@
 ## 🐶 Latest random dog image
-![Dog](https://images.dog.ceo/breeds/hound-english/n02089973_529.jpg)
-**Advice:** "Exercise in the rain can really make you feel alive."
-*Updated: 2025-08-26 15:37 UTC*
+![Dog](https://images.dog.ceo/breeds/setter-irish/n02100877_4764.jpg)
+**Advice:** "Don't give to others advice which you wouldn't follow."
+*Updated: 2025-08-26 16:42 UTC*
