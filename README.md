@@ -1,4 +1,4 @@
 ## 🐶 Latest random dog image
-![Dog](https://images.dog.ceo/breeds/mexicanhairless/n02113978_1632.jpg)
-**Advice:** "When in doubt, just take the next small step."
-*Updated: 2025-08-26 07:36 UTC*
+![Dog](https://images.dog.ceo/breeds/retriever-chesapeake/n02099849_4287.jpg)
+**Advice:** "If you find yourself distressed about something, ask yourself if it will still matter tomorrow or next week or next month."
+*Updated: 2025-08-26 08:45 UTC*
