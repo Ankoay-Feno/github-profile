@@ -1,4 +1,4 @@
 ## 🐶 Latest random dog image
-![Dog](https://images.dog.ceo/breeds/borzoi/n02090622_6713.jpg)
-**Advice:** "Happiness is a journey, not a destination."
-*Updated: 2025-08-28 13:42 UTC*
+![Dog](https://images.dog.ceo/breeds/retriever-chesapeake/n02099849_4215.jpg)
+**Advice:** "If you want to be happily married, marry a happy person."
+*Updated: 2025-08-28 14:40 UTC*
