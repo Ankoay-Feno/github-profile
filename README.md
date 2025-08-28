@@ -1,4 +1,4 @@
 ## 🐶 Latest random dog image
-![Dog](https://images.dog.ceo/breeds/retriever-chesapeake/n02099849_4215.jpg)
-**Advice:** "If you want to be happily married, marry a happy person."
-*Updated: 2025-08-28 14:40 UTC*
+![Dog](https://images.dog.ceo/breeds/weimaraner/n02092339_4965.jpg)
+**Advice:** "Take time once in a while to look up at the stars for at least 5 minutes, in order to comprehend your cosmic significance."
+*Updated: 2025-08-28 15:37 UTC*
