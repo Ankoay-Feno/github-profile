@@ -20,7 +20,21 @@ jobs:
           git config --global user.name "Ankoay-Feno"
           git config --global user.email "ankoayfeno@gmail.com"
 
+      - name: Random Check (50% chance to skip)
+        id: random_check
+        run: |
+          RANDOM_NUMBER=$((RANDOM % 100))
+          echo "Random number: $RANDOM_NUMBER"
+          if [ $RANDOM_NUMBER -gt 50 ]; then
+            echo "SKIP_UPDATE=true" >> $GITHUB_OUTPUT
+            echo "🚫 Skipping update this time (random number > 50)"
+          else
+            echo "SKIP_UPDATE=false" >> $GITHUB_OUTPUT
+            echo "✅ Proceeding with update"
+          fi
+
       - name: Generate Content
+        if: steps.random_check.outputs.SKIP_UPDATE == 'false'
         id: content
         run: |
           DOG_URL=$(curl -s https://dog.ceo/api/breeds/image/random | jq -r '.message')
@@ -33,6 +47,7 @@ jobs:
           EOF
 
       - name: Create Branch
+        if: steps.random_check.outputs.SKIP_UPDATE == 'false'
         id: branch
         run: |
           BRANCH_NAME="dog-update-$(date +'%Y%m%d-%H%M%S')"
@@ -40,15 +55,18 @@ jobs:
           git checkout -b $BRANCH_NAME
 
       - name: Commit
+        if: steps.random_check.outputs.SKIP_UPDATE == 'false'
         run: |
           git add README.md
           git commit -m "🦴 Auto-update dog image"
 
       - name: Push
+        if: steps.random_check.outputs.SKIP_UPDATE == 'false'
         run: |
           git push origin ${{ steps.branch.outputs.BRANCH_NAME }}
 
       - name: Create Pull Request
+        if: steps.random_check.outputs.SKIP_UPDATE == 'false'
         id: cpr
         uses: devops-infra/action-pull-request@v0.5.5
         with:
@@ -56,10 +74,11 @@ jobs:
           source_branch: ${{ steps.branch.outputs.BRANCH_NAME }}
           target_branch: main
           title: "🦴 Auto-update dog image"
-          body: "Pull request automatisée pour mise à jour de l’image du chien et du conseil du jour."
+          body: "Pull request automatisée pour mise à jour de l'image du chien et du conseil du jour."
 
       - name: Auto-merge PR
+        if: steps.random_check.outputs.SKIP_UPDATE == 'false'
         run: |
-          gh pr merge ${{ steps.cpr.outputs.pull_request_number }} --squash --delete-branch --admin
+          gh pr merge ${{ steps.cpr.outputs.pull_request_number }} --squash --delete-branch --auto
         env:
           GH_TOKEN: ${{ secrets.PAT_TOKEN }}
