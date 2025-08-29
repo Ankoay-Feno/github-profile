@@ -1,4 +1,4 @@
 ## 🐶 Latest random dog image
-![Dog](https://images.dog.ceo/breeds/hound-afghan/n02088094_3233.jpg)
-**Advice:** "Never cut your own fringe."
-*Updated: 2025-08-29 17:34 UTC*
+![Dog](https://images.dog.ceo/breeds/sharpei/noel.jpg)
+**Advice:** "Be brave. Even if you're not, pretend to be. No one can tell the difference."
+*Updated: 2025-08-29 18:41 UTC*
