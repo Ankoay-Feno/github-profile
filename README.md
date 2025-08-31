@@ -1,4 +1,4 @@
 ## 🐶 Latest random dog image
-![Dog](https://images.dog.ceo/breeds/boxer/n02108089_1654.jpg)
-**Advice:** "Some of life's best lessons are learnt at the worst times."
-*Updated: 2025-08-31 16:39 UTC*
+![Dog](https://images.dog.ceo/breeds/spitz-indian/Indian_Spitz.jpg)
+**Advice:** "Avoid mixing Ginger Nuts with other biscuits, they contaminate. Keep separated."
+*Updated: 2025-08-31 19:30 UTC*
