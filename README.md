@@ -1,4 +1,4 @@
 ## 🐶 Latest random dog image
-![Dog](https://images.dog.ceo/breeds/puggle/IMG_214822.jpg)
-**Advice:** "If you think nobody cares if you're alive, try missing a few payments."
-*Updated: 2025-08-31 03:23 UTC*
+![Dog](https://images.dog.ceo/breeds/cattledog-australian/IMG_5481.jpg)
+**Advice:** "You have as many hours in a day as the people you admire most."
+*Updated: 2025-08-31 04:38 UTC*
