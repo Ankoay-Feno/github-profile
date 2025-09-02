@@ -1,4 +1,4 @@
 ## 🐶 Latest random dog image
-![Dog](https://images.dog.ceo/breeds/keeshond/n02112350_10338.jpg)
-**Advice:** "Do not seek praise, seek criticism."
-*Updated: 2025-09-02 04:40 UTC*
+![Dog](https://images.dog.ceo/breeds/setter-english/n02100735_5258.jpg)
+**Advice:** "Don't eat non-snow-coloured snow."
+*Updated: 2025-09-02 05:38 UTC*
