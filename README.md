@@ -1,4 +1,4 @@
 ## 🐶 Latest random dog image
-![Dog](https://images.dog.ceo/breeds/beagle/n02088364_7927.jpg)
-**Advice:** "One of the top five regrets people have is that they didn't stay in contact with friends."
-*Updated: 2025-09-02 10:40 UTC*
+![Dog](https://images.dog.ceo/breeds/terrier-border/n02093754_5594.jpg)
+**Advice:** "If you are ever in doubt about whether or not to wash your hair: Wash it."
+*Updated: 2025-09-02 13:02 UTC*
