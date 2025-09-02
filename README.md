@@ -1,4 +1,4 @@
 ## 🐶 Latest random dog image
-![Dog](https://images.dog.ceo/breeds/cattledog-australian/IMG_5481.jpg)
-**Advice:** "Never pay full price for a sofa at DFS."
-*Updated: 2025-09-02 06:47 UTC*
+![Dog](https://images.dog.ceo/breeds/chihuahua/n02085620_2815.jpg)
+**Advice:** "Don't give to others advice which you wouldn't follow."
+*Updated: 2025-09-02 08:43 UTC*
