@@ -1,4 +1,4 @@
 ## 🐶 Latest random dog image
-![Dog](https://images.dog.ceo/breeds/spaniel-brittany/n02101388_3673.jpg)
-**Advice:** "Remember that spiders are more afraid of you, than you are of them."
-*Updated: 2025-09-03 05:35 UTC*
+![Dog](https://images.dog.ceo/breeds/waterdog-spanish/20180723_185544.jpg)
+**Advice:** "When in doubt, just take the next small step."
+*Updated: 2025-09-03 06:43 UTC*
