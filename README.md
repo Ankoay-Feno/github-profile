@@ -1,4 +1,4 @@
 ## 🐶 Latest random dog image
-![Dog](https://images.dog.ceo/breeds/mountain-bernese/n02107683_4260.jpg)
-**Advice:** "Today, do not use the words "Kind of", "Sort of" or "Maybe". It either is or it isn't."
-*Updated: 2025-09-03 13:40 UTC*
+![Dog](https://images.dog.ceo/breeds/otterhound/n02091635_1266.jpg)
+**Advice:** "Take time once in a while to look up at the stars for at least 5 minutes, in order to comprehend your cosmic significance."
+*Updated: 2025-09-03 14:39 UTC*
