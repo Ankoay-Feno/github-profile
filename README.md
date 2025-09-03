@@ -1,4 +1,4 @@
 ## 🐶 Latest random dog image
-![Dog](https://images.dog.ceo/breeds/retriever-curly/n02099429_3276.jpg)
-**Advice:** "Try to pay at least one person a compliment every day."
-*Updated: 2025-09-03 12:59 UTC*
+![Dog](https://images.dog.ceo/breeds/mountain-bernese/n02107683_4260.jpg)
+**Advice:** "Today, do not use the words "Kind of", "Sort of" or "Maybe". It either is or it isn't."
+*Updated: 2025-09-03 13:40 UTC*
