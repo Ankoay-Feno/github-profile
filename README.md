@@ -1,4 +1,4 @@
 ## 🐶 Latest random dog image
-![Dog](https://images.dog.ceo/breeds/terrier-norfolk/n02094114_1860.jpg)
-**Advice:** "Once you find a really good friend don't do anything that could mess up your friendship."
-*Updated: 2025-09-04 14:39 UTC*
+![Dog](https://images.dog.ceo/breeds/rottweiler/n02106550_7393.jpg)
+**Advice:** "Smile and the world smiles with you. Frown and you're on your own."
+*Updated: 2025-09-04 16:42 UTC*
