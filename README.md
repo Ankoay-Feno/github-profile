@@ -1,4 +1,4 @@
 ## 🐶 Latest random dog image
-![Dog](https://images.dog.ceo/breeds/brabancon/n02112706_637.jpg)
-**Advice:** "If you get stuck, try doing the opposite of what the solution requires."
-*Updated: 2025-09-05 15:34 UTC*
+![Dog](https://images.dog.ceo/breeds/malamute/n02110063_14491.jpg)
+**Advice:** "Smile and the world smiles with you. Frown and you're on your own."
+*Updated: 2025-09-05 17:34 UTC*
