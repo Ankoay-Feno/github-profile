@@ -1,4 +1,4 @@
 ## 🐶 Latest random dog image
-![Dog](https://images.dog.ceo/breeds/terrier-cairn/n02096177_7717.jpg)
-**Advice:** "Alway do anything for love, but don't do that."
-*Updated: 2025-09-05 12:58 UTC*
+![Dog](https://images.dog.ceo/breeds/cotondetulear/100_2397.jpg)
+**Advice:** "Don't give a speech. Put on a show."
+*Updated: 2025-09-05 13:39 UTC*
