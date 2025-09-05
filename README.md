@@ -1,4 +1,4 @@
 ## 🐶 Latest random dog image
-![Dog](https://images.dog.ceo/breeds/cotondetulear/100_2397.jpg)
-**Advice:** "Don't give a speech. Put on a show."
-*Updated: 2025-09-05 13:39 UTC*
+![Dog](https://images.dog.ceo/breeds/brabancon/n02112706_637.jpg)
+**Advice:** "If you get stuck, try doing the opposite of what the solution requires."
+*Updated: 2025-09-05 15:34 UTC*
