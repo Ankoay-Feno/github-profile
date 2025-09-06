@@ -1,4 +1,4 @@
 ## 🐶 Latest random dog image
-![Dog](https://images.dog.ceo/breeds/terrier-sealyham/n02095889_4923.jpg)
-**Advice:** "Learn from your mistakes."
-*Updated: 2025-09-06 06:41 UTC*
+![Dog](https://images.dog.ceo/breeds/kuvasz/n02104029_4704.jpg)
+**Advice:** "You can fail at what you don't want. So you might as well take a chance on doing what you love."
+*Updated: 2025-09-06 07:30 UTC*
