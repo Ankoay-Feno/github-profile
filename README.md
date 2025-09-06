@@ -1,4 +1,4 @@
 ## 🐶 Latest random dog image
-![Dog](https://images.dog.ceo/breeds/pug/n02110958_12781.jpg)
-**Advice:** "It's wrong to be right."
-*Updated: 2025-09-06 22:32 UTC*
+![Dog](https://images.dog.ceo/breeds/bulldog-french/n02108915_8258.jpg)
+**Advice:** "Do a bit more for your friends."
+*Updated: 2025-09-06 23:31 UTC*
