@@ -1,4 +1,4 @@
 ## 🐶 Latest random dog image
-![Dog](https://images.dog.ceo/breeds/kombai/Kombai-indian-Dog.jpg)
-**Advice:** "For every complex problem there is an answer that is clear, simple, and wrong."
-*Updated: 2025-09-07 23:30 UTC*
+![Dog](https://images.dog.ceo/breeds/papillon/n02086910_4623.jpg)
+**Advice:** "A common regret in life is wishing one hadn't worked so hard."
+*Updated: 2025-09-08 02:14 UTC*
