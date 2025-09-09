@@ -1,4 +1,4 @@
 ## 🐶 Latest random dog image
-![Dog](https://images.dog.ceo/breeds/hound-english/n02089973_3480.jpg)
-**Advice:** "When something goes wrong in life, just shout "plot twist!" and carry on."
-*Updated: 2025-09-09 10:40 UTC*
+![Dog](https://images.dog.ceo/breeds/wolfhound-irish/n02090721_3398.jpg)
+**Advice:** "Most things are not as bad as you think they are."
+*Updated: 2025-09-09 11:31 UTC*
