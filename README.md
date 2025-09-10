@@ -1,4 +1,4 @@
 ## 🐶 Latest random dog image
-![Dog](https://images.dog.ceo/breeds/terrier-american/n02093428_225.jpg)
-**Advice:** "Don't take it personally."
-*Updated: 2025-09-10 07:32 UTC*
+![Dog](https://images.dog.ceo/breeds/airedale/n02096051_9319.jpg)
+**Advice:** "Do, or do not. There is no try."
+*Updated: 2025-09-10 08:42 UTC*
