@@ -1,4 +1,4 @@
 ## 🐶 Latest random dog image
-![Dog](https://images.dog.ceo/breeds/groenendael/n02105056_3322.jpg)
-**Advice:** "Learn from your mistakes."
-*Updated: 2025-09-10 12:59 UTC*
+![Dog](https://images.dog.ceo/breeds/cockapoo/Guri6.jpg)
+**Advice:** "Don't put off breaking up with someone when you know you want to. Prolonging the situation only makes it worse."
+*Updated: 2025-09-10 14:38 UTC*
