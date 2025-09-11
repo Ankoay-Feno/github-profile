@@ -1,4 +1,4 @@
 ## 🐶 Latest random dog image
-![Dog](https://images.dog.ceo/breeds/poodle-standard/n02113799_1976.jpg)
-**Advice:** "Some people would be better off if they took their own advice."
-*Updated: 2025-09-11 15:32 UTC*
+![Dog](https://images.dog.ceo/breeds/mountain-bernese/n02107683_3958.jpg)
+**Advice:** "It's always the quiet ones."
+*Updated: 2025-09-11 16:39 UTC*
