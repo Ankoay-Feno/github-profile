@@ -1,4 +1,4 @@
 ## 🐶 Latest random dog image
-![Dog](https://images.dog.ceo/breeds/cotondetulear/IMG_20160830_202631573.jpg)
-**Advice:** "Your smile could make someone's day, don't forget to wear it."
-*Updated: 2025-09-11 05:36 UTC*
+![Dog](https://images.dog.ceo/breeds/mountain-bernese/n02107683_5848.jpg)
+**Advice:** "Try to not compliment people on things they don't control."
+*Updated: 2025-09-11 07:32 UTC*
