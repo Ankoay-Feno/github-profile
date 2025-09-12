@@ -1,4 +1,4 @@
 ## 🐶 Latest random dog image
-![Dog](https://images.dog.ceo/breeds/hound-plott/hhh-23456.jpg)
-**Advice:** "Try making a list."
-*Updated: 2025-09-12 17:32 UTC*
+![Dog](https://images.dog.ceo/breeds/frise-bichon/7.jpg)
+**Advice:** "If you think nobody cares if you're alive, try missing a few payments."
+*Updated: 2025-09-12 18:40 UTC*
