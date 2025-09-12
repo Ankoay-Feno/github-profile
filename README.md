@@ -1,4 +1,4 @@
 ## 🐶 Latest random dog image
-![Dog](https://images.dog.ceo/breeds/pomeranian/n02112018_6832.jpg)
-**Advice:** "When you're at a concert or event, enjoy the moment, enjoy being there. Try leaving your camera in your pocket."
-*Updated: 2025-09-12 07:31 UTC*
+![Dog](https://images.dog.ceo/breeds/terrier-wheaten/n02098105_1067.jpg)
+**Advice:** "If you've nothing nice to say, say nothing."
+*Updated: 2025-09-12 09:33 UTC*
