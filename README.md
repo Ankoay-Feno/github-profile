@@ -1,4 +1,4 @@
 ## 🐶 Latest random dog image
-![Dog](https://images.dog.ceo/breeds/schnauzer-giant/n02097130_1699.jpg)
-**Advice:** "Accept advice."
-*Updated: 2025-09-12 11:30 UTC*
+![Dog](https://images.dog.ceo/breeds/stbernard/n02109525_10374.jpg)
+**Advice:** "If you're going bald, don't comb your hair over your bald patch."
+*Updated: 2025-09-12 12:57 UTC*
