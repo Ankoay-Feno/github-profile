@@ -1,4 +1,4 @@
 ## 🐶 Latest random dog image
-![Dog](https://images.dog.ceo/breeds/kelpie/n02105412_6770.jpg)
-**Advice:** "Stop using the term "busy" as an excuse."
-*Updated: 2025-09-13 13:31 UTC*
+![Dog](https://images.dog.ceo/breeds/finnish-lapphund/mochilamvan.jpg)
+**Advice:** "Try going commando to an important meeting, NB: don't wear a skirt."
+*Updated: 2025-09-13 15:30 UTC*
