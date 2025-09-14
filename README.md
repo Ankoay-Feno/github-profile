@@ -1,4 +1,4 @@
 ## 🐶 Latest random dog image
-![Dog](https://images.dog.ceo/breeds/pointer-germanlonghair/hans3.jpg)
-**Advice:** "A common regret in life is wishing one hadn't worked so hard."
-*Updated: 2025-09-14 15:30 UTC*
+![Dog](https://images.dog.ceo/breeds/bulldog-english/jager-2.jpg)
+**Advice:** "Always get two ciders."
+*Updated: 2025-09-14 17:30 UTC*
