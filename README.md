@@ -1,4 +1,4 @@
 ## 🐶 Latest random dog image
-![Dog](https://images.dog.ceo/breeds/labrador/n02099712_4160.jpg)
-**Advice:** "Once you find a really good friend don't do anything that could mess up your friendship."
-*Updated: 2025-09-14 14:31 UTC*
+![Dog](https://images.dog.ceo/breeds/pointer-germanlonghair/hans3.jpg)
+**Advice:** "A common regret in life is wishing one hadn't worked so hard."
+*Updated: 2025-09-14 15:30 UTC*
