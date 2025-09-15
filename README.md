@@ -1,4 +1,4 @@
 ## 🐶 Latest random dog image
-![Dog](https://images.dog.ceo/breeds/terrier-silky/n02097658_11363.jpg)
-**Advice:** "Happiness is a journey, not a destination."
-*Updated: 2025-09-14 23:30 UTC*
+![Dog](https://images.dog.ceo/breeds/spaniel-cocker/n02102318_2983.jpg)
+**Advice:** "Do a bit more for your friends."
+*Updated: 2025-09-15 03:49 UTC*
