@@ -1,4 +1,4 @@
 ## 🐶 Latest random dog image
-![Dog](https://images.dog.ceo/breeds/labradoodle/Cali.jpg)
-**Advice:** "Never cut your own fringe."
-*Updated: 2025-09-15 22:34 UTC*
+![Dog](https://images.dog.ceo/breeds/mastiff-indian/Indian_Mastiff.jpg)
+**Advice:** "Never regret. If it's good, it's wonderful. If it's bad, it's experience."
+*Updated: 2025-09-16 02:00 UTC*
