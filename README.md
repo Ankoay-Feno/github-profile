@@ -1,4 +1,4 @@
 ## 🐶 Latest random dog image
-![Dog](https://images.dog.ceo/breeds/terrier-toy/n02087046_4315.jpg)
-**Advice:** "A nod is as good as a wink to a blind horse."
-*Updated: 2025-09-17 05:36 UTC*
+![Dog](https://images.dog.ceo/breeds/mountain-bernese/n02107683_6293.jpg)
+**Advice:** "Don't take it personally."
+*Updated: 2025-09-17 06:45 UTC*
