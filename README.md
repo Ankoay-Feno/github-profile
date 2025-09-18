@@ -1,4 +1,4 @@
 ## 🐶 Latest random dog image
-![Dog](https://images.dog.ceo/breeds/chow/n02112137_4434.jpg)
-**Advice:** "Step 1. Give a shit. Step 2. Don't be a dick. Step 3. Know when to let go."
-*Updated: 2025-09-18 02:00 UTC*
+![Dog](https://images.dog.ceo/breeds/terrier-toy/n02087046_4127.jpg)
+**Advice:** "Put a piece of kitchen roll in with your bag of leaves to make them last longer."
+*Updated: 2025-09-18 03:08 UTC*
