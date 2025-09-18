@@ -1,4 +1,4 @@
 ## 🐶 Latest random dog image
-![Dog](https://images.dog.ceo/breeds/terrier-westhighland/n02098286_749.jpg)
-**Advice:** "State the problem in words as clearly as possible."
-*Updated: 2025-09-18 19:30 UTC*
+![Dog](https://images.dog.ceo/breeds/malinois/n02105162_5731.jpg)
+**Advice:** "Winter is coming."
+*Updated: 2025-09-18 22:34 UTC*
