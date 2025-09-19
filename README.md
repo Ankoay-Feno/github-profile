@@ -1,4 +1,4 @@
 ## 🐶 Latest random dog image
-![Dog](https://images.dog.ceo/breeds/poodle-medium/PXL_20210220_100624962.jpg)
-**Advice:** "Pedantry is fine, unless you're on the receiving end. And not a pedant."
-*Updated: 2025-09-19 19:31 UTC*
+![Dog](https://images.dog.ceo/breeds/poodle-miniature/n02113712_566.jpg)
+**Advice:** "Plant a tree."
+*Updated: 2025-09-19 20:34 UTC*
