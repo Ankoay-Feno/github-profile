@@ -1,4 +1,4 @@
 ## 🐶 Latest random dog image
-![Dog](https://images.dog.ceo/breeds/poodle-miniature/n02113712_566.jpg)
-**Advice:** "Plant a tree."
-*Updated: 2025-09-19 20:34 UTC*
+![Dog](https://images.dog.ceo/breeds/terrier-australian/n02096294_1754.jpg)
+**Advice:** "Have a firm handshake."
+*Updated: 2025-09-19 22:33 UTC*
