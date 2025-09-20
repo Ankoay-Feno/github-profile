@@ -1,4 +1,4 @@
 ## 🐶 Latest random dog image
-![Dog](https://images.dog.ceo/breeds/terrier-australian/n02096294_1754.jpg)
-**Advice:** "Have a firm handshake."
-*Updated: 2025-09-19 22:33 UTC*
+![Dog](https://images.dog.ceo/breeds/terrier-norfolk/n02094114_2394.jpg)
+**Advice:** "No "brand" is your friend."
+*Updated: 2025-09-20 01:58 UTC*
