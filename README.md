@@ -1,4 +1,4 @@
 ## 🐶 Latest random dog image
-![Dog](https://images.dog.ceo/breeds/spaniel-cocker/n02102318_2271.jpg)
-**Advice:** "The more ideas that you give away, the more ideas that will come to you."
-*Updated: 2025-09-20 16:36 UTC*
+![Dog](https://images.dog.ceo/breeds/entlebucher/n02108000_827.jpg)
+**Advice:** "What's stopping you?"
+*Updated: 2025-09-20 17:30 UTC*
