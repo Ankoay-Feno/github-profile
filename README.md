@@ -1,4 +1,4 @@
 ## 🐶 Latest random dog image
-![Dog](https://images.dog.ceo/breeds/kelpie/n02105412_7326.jpg)
-**Advice:** "Do not check work email on your days off."
-*Updated: 2025-09-20 14:33 UTC*
+![Dog](https://images.dog.ceo/breeds/spaniel-cocker/n02102318_2271.jpg)
+**Advice:** "The more ideas that you give away, the more ideas that will come to you."
+*Updated: 2025-09-20 16:36 UTC*
