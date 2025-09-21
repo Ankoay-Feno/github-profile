@@ -1,4 +1,4 @@
 ## 🐶 Latest random dog image
-![Dog](https://images.dog.ceo/breeds/terrier-norwich/n02094258_2981.jpg)
-**Advice:** "It is easy to sit up and take notice, what's difficult is getting up and taking action."
-*Updated: 2025-09-21 20:34 UTC*
+![Dog](https://images.dog.ceo/breeds/australian-shepherd/pepper2.jpg)
+**Advice:** "No one knows anyone else in the way you do."
+*Updated: 2025-09-21 21:31 UTC*
