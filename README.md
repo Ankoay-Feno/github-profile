@@ -1,4 +1,4 @@
 ## 🐶 Latest random dog image
-![Dog](https://images.dog.ceo/breeds/husky/n02110185_4906.jpg)
-**Advice:** "YOLO"
-*Updated: 2025-09-22 21:30 UTC*
+![Dog](https://images.dog.ceo/breeds/poodle-standard/n02113799_5975.jpg)
+**Advice:** "Plant a tree."
+*Updated: 2025-09-22 22:35 UTC*
