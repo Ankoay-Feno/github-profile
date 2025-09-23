@@ -1,4 +1,4 @@
 ## 🐶 Latest random dog image
-![Dog](https://images.dog.ceo/breeds/cavapoo/doggo2.jpg)
-**Advice:** "The person who never made a mistake never made anything."
-*Updated: 2025-09-23 03:08 UTC*
+![Dog](https://images.dog.ceo/breeds/collie-border/n02106166_6833.jpg)
+**Advice:** "Being kind is more rewarding than being right."
+*Updated: 2025-09-23 03:43 UTC*
