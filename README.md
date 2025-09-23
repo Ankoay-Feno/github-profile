@@ -1,4 +1,4 @@
 ## 🐶 Latest random dog image
-![Dog](https://images.dog.ceo/breeds/buhund-norwegian/hakon2.jpg)
-**Advice:** "As things get closer to the light, the shadows get darker."
-*Updated: 2025-09-23 18:44 UTC*
+![Dog](https://images.dog.ceo/breeds/otterhound/n02091635_2603.jpg)
+**Advice:** "Life is better when you sing about bananas."
+*Updated: 2025-09-23 19:30 UTC*
