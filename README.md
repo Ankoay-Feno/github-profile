@@ -1,4 +1,4 @@
 ## 🐶 Latest random dog image
-![Dog](https://images.dog.ceo/breeds/terrier-norfolk/n02094114_4305.jpg)
-**Advice:** "To improve productivity, always have a shittier task to put off."
-*Updated: 2025-09-23 07:34 UTC*
+![Dog](https://images.dog.ceo/breeds/terrier-irish/n02093991_4169.jpg)
+**Advice:** "Pedantry is fine, unless you're on the receiving end. And not a pedant."
+*Updated: 2025-09-23 08:42 UTC*
