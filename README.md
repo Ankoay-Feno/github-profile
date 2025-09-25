@@ -1,4 +1,4 @@
 ## 🐶 Latest random dog image
-![Dog](https://images.dog.ceo/breeds/retriever-curly/n02099429_841.jpg)
-**Advice:** "Don't give to others advice which you wouldn't follow."
-*Updated: 2025-09-25 05:37 UTC*
+![Dog](https://images.dog.ceo/breeds/mix/cman.jpg)
+**Advice:** "You never really grow up."
+*Updated: 2025-09-25 07:33 UTC*
