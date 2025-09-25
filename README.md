@@ -1,4 +1,4 @@
 ## 🐶 Latest random dog image
-![Dog](https://images.dog.ceo/breeds/poodle-medium/WhatsApp_Image_2022-08-06_at_4.48.38_PM.jpg)
-**Advice:** "Don't be afraid of silly ideas."
-*Updated: 2025-09-25 08:43 UTC*
+![Dog](https://images.dog.ceo/breeds/spaniel-welsh/n02102177_66.jpg)
+**Advice:** "Most things are not as bad as you think they are."
+*Updated: 2025-09-25 11:31 UTC*
