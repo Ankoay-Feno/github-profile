@@ -1,4 +1,4 @@
 ## 🐶 Latest random dog image
-![Dog](https://images.dog.ceo/breeds/spaniel-welsh/n02102177_66.jpg)
-**Advice:** "Most things are not as bad as you think they are."
-*Updated: 2025-09-25 11:31 UTC*
+![Dog](https://images.dog.ceo/breeds/kelpie/n02105412_7017.jpg)
+**Advice:** "Everything matters, but nothing matters that much."
+*Updated: 2025-09-25 13:02 UTC*
