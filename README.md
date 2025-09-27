@@ -1,4 +1,4 @@
 ## 🐶 Latest random dog image
-![Dog](https://images.dog.ceo/breeds/mastiff-english/1.jpg)
-**Advice:** "If you're squashed close to strangers on public transport, try not to be rude to them. No one likes those situations."
-*Updated: 2025-09-27 10:34 UTC*
+![Dog](https://images.dog.ceo/breeds/eskimo/n02109961_10774.jpg)
+**Advice:** "Enjoy a little nonsense now and then."
+*Updated: 2025-09-27 12:54 UTC*
