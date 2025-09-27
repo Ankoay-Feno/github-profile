@@ -1,4 +1,4 @@
 ## 🐶 Latest random dog image
-![Dog](https://images.dog.ceo/breeds/eskimo/n02109961_2369.jpg)
-**Advice:** "When you're at a concert or event, enjoy the moment, enjoy being there. Try leaving your camera in your pocket."
-*Updated: 2025-09-27 04:38 UTC*
+![Dog](https://images.dog.ceo/breeds/leonberg/n02111129_4779.jpg)
+**Advice:** "Don't burn bridges."
+*Updated: 2025-09-27 05:34 UTC*
