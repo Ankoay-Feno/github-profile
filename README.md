@@ -1,4 +1,4 @@
 ## 🐶 Latest random dog image
-![Dog](https://images.dog.ceo/breeds/shiba/shiba-16.jpg)
-**Advice:** "Measure twice, cut once."
-*Updated: 2025-09-27 20:32 UTC*
+![Dog](https://images.dog.ceo/breeds/finnish-lapphund/mochilamvan.jpg)
+**Advice:** "Never pay full price for a sofa at DFS."
+*Updated: 2025-09-27 23:30 UTC*
