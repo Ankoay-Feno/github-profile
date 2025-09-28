@@ -1,4 +1,4 @@
 ## 🐶 Latest random dog image
-![Dog](https://images.dog.ceo/breeds/dingo/n02115641_8682.jpg)
-**Advice:** "Winter is coming."
-*Updated: 2025-09-28 07:30 UTC*
+![Dog](https://images.dog.ceo/breeds/setter-irish/n02100877_295.jpg)
+**Advice:** "Have a firm handshake."
+*Updated: 2025-09-28 08:37 UTC*
