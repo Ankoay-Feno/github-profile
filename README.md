@@ -1,4 +1,4 @@
 ## 🐶 Latest random dog image
-![Dog](https://images.dog.ceo/breeds/mastiff-indian/Indian_Mastiff.jpg)
-**Advice:** "Always block trolls."
-*Updated: 2025-10-01 05:38 UTC*
+![Dog](https://images.dog.ceo/breeds/shihtzu/n02086240_599.jpg)
+**Advice:** "Take time once in a while to look up at the stars for at least 5 minutes, in order to comprehend your cosmic significance."
+*Updated: 2025-10-01 09:37 UTC*
