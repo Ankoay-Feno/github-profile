@@ -1,4 +1,4 @@
 ## 🐶 Latest random dog image
-![Dog](https://images.dog.ceo/breeds/spitz-japanese/beet-001.jpg)
-**Advice:** "Don't feed Mogwais after midnight."
-*Updated: 2025-10-03 10:37 UTC*
+![Dog](https://images.dog.ceo/breeds/chow/n02112137_9708.jpg)
+**Advice:** "Winter is coming."
+*Updated: 2025-10-03 11:30 UTC*
