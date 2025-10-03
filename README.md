@@ -1,4 +1,4 @@
 ## 🐶 Latest random dog image
-![Dog](https://images.dog.ceo/breeds/dalmatian/cooper2.jpg)
-**Advice:** "You're not that important; it's what you do that counts."
-*Updated: 2025-10-03 12:58 UTC*
+![Dog](https://images.dog.ceo/breeds/akita/Akita_Inu_dog.jpg)
+**Advice:** "You spend half your life asleep or in bed. It's worth spending money on a good mattress, decent pillows and a comfy duvet."
+*Updated: 2025-10-03 13:39 UTC*
