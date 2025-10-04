@@ -1,4 +1,4 @@
 ## 🐶 Latest random dog image
-![Dog](https://images.dog.ceo/breeds/terrier-irish/n02093991_4287.jpg)
-**Advice:** "Being kind is more rewarding than being right."
-*Updated: 2025-10-04 10:34 UTC*
+![Dog](https://images.dog.ceo/breeds/terrier-border/n02093754_874.jpg)
+**Advice:** "Alway do anything for love, but don't do that."
+*Updated: 2025-10-04 12:54 UTC*
