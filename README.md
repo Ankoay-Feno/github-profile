@@ -1,4 +1,4 @@
 ## 🐶 Latest random dog image
-![Dog](https://images.dog.ceo/breeds/puggle/IMG_104450.jpg)
-**Advice:** "Everything in moderation, including moderation itself."
-*Updated: 2025-10-04 09:31 UTC*
+![Dog](https://images.dog.ceo/breeds/terrier-irish/n02093991_4287.jpg)
+**Advice:** "Being kind is more rewarding than being right."
+*Updated: 2025-10-04 10:34 UTC*
