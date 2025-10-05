@@ -1,4 +1,4 @@
 ## 🐶 Latest random dog image
-![Dog](https://images.dog.ceo/breeds/terrier-lakeland/n02095570_95.jpg)
-**Advice:** "Your smile could make someone's day, don't forget to wear it."
-*Updated: 2025-10-05 15:30 UTC*
+![Dog](https://images.dog.ceo/breeds/australian-kelpie/Resized_20200214_191118_346649120350209.jpg)
+**Advice:** "Smile and the world smiles with you. Frown and you're on your own."
+*Updated: 2025-10-05 16:38 UTC*
