@@ -1,4 +1,4 @@
 ## 🐶 Latest random dog image
-![Dog](https://images.dog.ceo/breeds/keeshond/n02112350_9232.jpg)
-**Advice:** "Learn to handle criticism."
-*Updated: 2025-10-05 12:54 UTC*
+![Dog](https://images.dog.ceo/breeds/dhole/n02115913_2005.jpg)
+**Advice:** "When in doubt, just take the next small step."
+*Updated: 2025-10-05 14:32 UTC*
