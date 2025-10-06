@@ -1,4 +1,4 @@
 ## 🐶 Latest random dog image
-![Dog](https://images.dog.ceo/breeds/mexicanhairless/n02113978_3318.jpg)
-**Advice:** "Don't wear clean trousers when walking your dog in the park."
-*Updated: 2025-10-06 13:42 UTC*
+![Dog](https://images.dog.ceo/breeds/terrier-russell/IMG_7751.jpg)
+**Advice:** "Life can be a lot more interesting inside your head."
+*Updated: 2025-10-06 14:39 UTC*
