@@ -1,4 +1,4 @@
 ## 🐶 Latest random dog image
-![Dog](https://images.dog.ceo/breeds/whippet/n02091134_39.jpg)
-**Advice:** "A common regret in life is wishing one hadn't worked so hard."
-*Updated: 2025-10-06 11:30 UTC*
+![Dog](https://images.dog.ceo/breeds/spitz-japanese/tofu.jpg)
+**Advice:** "Don't assume anything is possible or impossible until you've asked the people who will be doing the work."
+*Updated: 2025-10-06 13:01 UTC*
