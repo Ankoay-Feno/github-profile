@@ -1,4 +1,4 @@
 ## 🐶 Latest random dog image
-![Dog](https://images.dog.ceo/breeds/terrier-fox/n02095314_2256.jpg)
-**Advice:** "If it still itches after a week, go to the doctors."
-*Updated: 2025-10-06 16:42 UTC*
+![Dog](https://images.dog.ceo/breeds/hound-english/n02089973_3160.jpg)
+**Advice:** "Hold the door open for the next person."
+*Updated: 2025-10-06 17:34 UTC*
