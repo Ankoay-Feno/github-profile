@@ -1,4 +1,4 @@
 ## 🐶 Latest random dog image
-![Dog](https://images.dog.ceo/breeds/husky/n02110185_12120.jpg)
-**Advice:** "Don't give to others advice which you wouldn't follow."
-*Updated: 2025-10-07 10:39 UTC*
+![Dog](https://images.dog.ceo/breeds/bulldog-english/mami.jpg)
+**Advice:** "Don't eat anything your grandparents wouldn't recognise as food."
+*Updated: 2025-10-07 13:01 UTC*
