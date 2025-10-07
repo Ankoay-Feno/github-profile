@@ -1,4 +1,4 @@
 ## 🐶 Latest random dog image
-![Dog](https://images.dog.ceo/breeds/newfoundland/n02111277_4317.jpg)
-**Advice:** "Sing in the shower."
-*Updated: 2025-10-07 14:40 UTC*
+![Dog](https://images.dog.ceo/breeds/terrier-andalusian/ratoner-bodeguero-andaluz.jpg)
+**Advice:** "It is easy to sit up and take notice, what's difficult is getting up and taking action."
+*Updated: 2025-10-07 21:31 UTC*
