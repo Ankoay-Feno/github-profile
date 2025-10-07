@@ -1,4 +1,4 @@
 ## 🐶 Latest random dog image
-![Dog](https://images.dog.ceo/breeds/appenzeller/n02107908_5371.jpg)
-**Advice:** "Lemon and salt works wonders on tarnished brass."
-*Updated: 2025-10-07 13:42 UTC*
+![Dog](https://images.dog.ceo/breeds/newfoundland/n02111277_4317.jpg)
+**Advice:** "Sing in the shower."
+*Updated: 2025-10-07 14:40 UTC*
