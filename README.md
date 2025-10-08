@@ -1,4 +1,4 @@
 ## 🐶 Latest random dog image
-![Dog](https://images.dog.ceo/breeds/terrier-boston/bostonTerrier_000002.jpg)
-**Advice:** "For every complex problem there is an answer that is clear, simple, and wrong."
-*Updated: 2025-10-08 13:02 UTC*
+![Dog](https://images.dog.ceo/breeds/hound-afghan/n02088094_3400.jpg)
+**Advice:** "Opinions are like arseholes, everyone has one."
+*Updated: 2025-10-08 14:40 UTC*
