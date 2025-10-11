@@ -1,4 +1,4 @@
 ## 🐶 Latest random dog image
-![Dog](https://images.dog.ceo/breeds/wolfhound-irish/n02090721_209.jpg)
-**Advice:** "Make choices and dont look back."
-*Updated: 2025-10-11 16:37 UTC*
+![Dog](https://images.dog.ceo/breeds/akita/Akita_inu_blanc.jpg)
+**Advice:** "Value the people in your life."
+*Updated: 2025-10-11 17:30 UTC*
