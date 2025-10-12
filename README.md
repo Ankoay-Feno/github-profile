@@ -1,4 +1,4 @@
 ## 🐶 Latest random dog image
-![Dog](https://images.dog.ceo/breeds/retriever-curly/n02099429_1701.jpg)
-**Advice:** "Everybody makes mistakes."
-*Updated: 2025-10-12 12:54 UTC*
+![Dog](https://images.dog.ceo/breeds/terrier-irish/n02093991_3020.jpg)
+**Advice:** "Life is short enough, don't race to the finish."
+*Updated: 2025-10-12 13:34 UTC*
