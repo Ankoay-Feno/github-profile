@@ -1,4 +1,4 @@
 ## 🐶 Latest random dog image
-![Dog](https://images.dog.ceo/breeds/schipperke/n02104365_10598.jpg)
-**Advice:** "As things get closer to the light, the shadows get darker."
-*Updated: 2025-10-12 21:31 UTC*
+![Dog](https://images.dog.ceo/breeds/terrier-australian/n02096294_2378.jpg)
+**Advice:** "Winter is coming."
+*Updated: 2025-10-12 22:34 UTC*
