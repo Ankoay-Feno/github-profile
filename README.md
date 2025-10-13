@@ -1,4 +1,4 @@
 ## 🐶 Latest random dog image
-![Dog](https://images.dog.ceo/breeds/spaniel-cocker/n02102318_11605.jpg)
-**Advice:** "You're not that important; it's what you do that counts."
-*Updated: 2025-10-13 17:34 UTC*
+![Dog](https://images.dog.ceo/breeds/coonhound/n02089078_3038.jpg)
+**Advice:** "Don't be afraid to ask questions."
+*Updated: 2025-10-13 18:44 UTC*
