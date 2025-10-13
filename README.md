@@ -1,4 +1,4 @@
 ## 🐶 Latest random dog image
-![Dog](https://images.dog.ceo/breeds/gaddi-indian/Gaddi.jpg)
-**Advice:** "Everybody makes mistakes."
-*Updated: 2025-10-13 20:36 UTC*
+![Dog](https://images.dog.ceo/breeds/lhasa/n02098413_3033.jpg)
+**Advice:** "Fail. Fail again. Fail better."
+*Updated: 2025-10-13 21:31 UTC*
