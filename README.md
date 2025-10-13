@@ -1,4 +1,4 @@
 ## 🐶 Latest random dog image
-![Dog](https://images.dog.ceo/breeds/saluki/n02091831_2606.jpg)
-**Advice:** "You can fail at what you don't want. So you might as well take a chance on doing what you love."
-*Updated: 2025-10-13 11:31 UTC*
+![Dog](https://images.dog.ceo/breeds/shihtzu/n02086240_4629.jpg)
+**Advice:** "If you are feeling down, try holding a pencil between your top lip and your nose for five minutes."
+*Updated: 2025-10-13 14:40 UTC*
