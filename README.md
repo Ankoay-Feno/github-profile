@@ -1,4 +1,4 @@
 ## 🐶 Latest random dog image
-![Dog](https://images.dog.ceo/breeds/terrier-bedlington/n02093647_21.jpg)
-**Advice:** "Turn jeans inside out when washing them to help preserve their colour."
-*Updated: 2025-10-14 15:39 UTC*
+![Dog](https://images.dog.ceo/breeds/saluki/n02091831_848.jpg)
+**Advice:** "If your hair is thinning, try dying your hair a similar tone to your scalp."
+*Updated: 2025-10-14 19:30 UTC*
