@@ -1,4 +1,4 @@
 ## 🐶 Latest random dog image
-![Dog](https://images.dog.ceo/breeds/cavapoo/doggo1.jpg)
-**Advice:** "If you're squashed close to strangers on public transport, try not to be rude to them. No one likes those situations."
-*Updated: 2025-10-14 23:30 UTC*
+![Dog](https://images.dog.ceo/breeds/mexicanhairless/n02113978_505.jpg)
+**Advice:** "Gratitude is said to be the secret to happiness."
+*Updated: 2025-10-15 02:11 UTC*
