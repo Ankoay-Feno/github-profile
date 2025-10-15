@@ -1,4 +1,4 @@
 ## 🐶 Latest random dog image
-![Dog](https://images.dog.ceo/breeds/buhund-norwegian/hakon1.jpg)
-**Advice:** "If you're squashed close to strangers on public transport, try not to be rude to them. No one likes those situations."
-*Updated: 2025-10-15 21:31 UTC*
+![Dog](https://images.dog.ceo/breeds/terrier-silky/n02097658_1789.jpg)
+**Advice:** "Don't always believe what you think."
+*Updated: 2025-10-15 22:34 UTC*
