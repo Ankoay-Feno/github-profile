@@ -1,4 +1,4 @@
 ## 🐶 Latest random dog image
-![Dog](https://images.dog.ceo/breeds/otterhound/n02091635_1329.jpg)
-**Advice:** "Look people in the eye."
-*Updated: 2025-10-16 21:30 UTC*
+![Dog](https://images.dog.ceo/breeds/terrier-norfolk/n02094114_2454.jpg)
+**Advice:** "When having a clear out, ask yourself if an item has any financial, practical or sentimental value. If not, chuck it."
+*Updated: 2025-10-16 23:31 UTC*
