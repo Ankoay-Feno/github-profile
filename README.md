@@ -1,4 +1,4 @@
 ## 🐶 Latest random dog image
-![Dog](https://images.dog.ceo/breeds/springer-english/n02102040_1178.jpg)
-**Advice:** "You can have too much of a good thing."
-*Updated: 2025-10-17 06:45 UTC*
+![Dog](https://images.dog.ceo/breeds/schnauzer-miniature/n02097047_1394.jpg)
+**Advice:** "Identify sources of happiness."
+*Updated: 2025-10-17 10:39 UTC*
