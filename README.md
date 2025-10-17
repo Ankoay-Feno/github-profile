@@ -1,4 +1,4 @@
 ## 🐶 Latest random dog image
-![Dog](https://images.dog.ceo/breeds/terrier-norfolk/n02094114_2454.jpg)
-**Advice:** "When having a clear out, ask yourself if an item has any financial, practical or sentimental value. If not, chuck it."
-*Updated: 2025-10-16 23:31 UTC*
+![Dog](https://images.dog.ceo/breeds/springer-english/n02102040_1178.jpg)
+**Advice:** "You can have too much of a good thing."
+*Updated: 2025-10-17 06:45 UTC*
