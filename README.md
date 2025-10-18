@@ -1,4 +1,4 @@
 ## 🐶 Latest random dog image
-![Dog](https://images.dog.ceo/breeds/airedale/n02096051_1244.jpg)
-**Advice:** "Be a good lover."
-*Updated: 2025-10-18 19:30 UTC*
+![Dog](https://images.dog.ceo/breeds/sharpei/noel.jpg)
+**Advice:** "You have as many hours in a day as the people you admire most."
+*Updated: 2025-10-18 20:33 UTC*
