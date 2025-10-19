@@ -1,4 +1,4 @@
 ## 🐶 Latest random dog image
-![Dog](https://images.dog.ceo/breeds/chihuahua/n02085620_8611.jpg)
-**Advice:** "Some of life's best lessons are learnt at the worst times."
-*Updated: 2025-10-19 11:30 UTC*
+![Dog](https://images.dog.ceo/breeds/spitz-indian/Indian_Spitz.jpg)
+**Advice:** "Sarcasm is the lowest form of wit. Employ correctly with apt timing."
+*Updated: 2025-10-19 13:35 UTC*
