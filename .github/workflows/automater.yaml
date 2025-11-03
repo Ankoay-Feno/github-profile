@@ -45,6 +45,7 @@ jobs:
           **Advice:** "$ADVICE"
           *Updated: $(date -u +'%Y-%m-%d %H:%M UTC')*
           EOF
+          echo "ADVICE=$ADVICE" >> $GITHUB_OUTPUT
 
       - name: Create Branch
         if: steps.random_check.outputs.SKIP_UPDATE == 'false'
@@ -58,7 +59,7 @@ jobs:
         if: steps.random_check.outputs.SKIP_UPDATE == 'false'
         run: |
           git add README.md
-          git commit -m "🦴 Auto-update dog image"
+          git commit -m "🐶 Update: ${{ steps.content.outputs.ADVICE }}"
 
       - name: Push
         if: steps.random_check.outputs.SKIP_UPDATE == 'false'
